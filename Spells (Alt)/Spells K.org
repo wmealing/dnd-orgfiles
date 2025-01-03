@@ -1,0 +1,5 @@
+* Spells (K)
+:PROPERTIES:
+:CUSTOM_ID: spells-k
+:END:
+None.

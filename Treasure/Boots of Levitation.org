@@ -1,0 +1,8 @@
+*** Boots of Levitation
+:PROPERTIES:
+:CUSTOM_ID: boots-of-levitation
+:END:
+/Wondrous item, rare (requires attunement)/
+
+While you wear these boots, you can use an action to cast the /levitate/
+spell on yourself at will.

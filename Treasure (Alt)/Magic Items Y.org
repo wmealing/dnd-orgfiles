@@ -1,0 +1,5 @@
+* Magic Items (Y)
+:PROPERTIES:
+:CUSTOM_ID: magic-items-y
+:END:
+None.

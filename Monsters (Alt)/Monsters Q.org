@@ -1,0 +1,5 @@
+* Monsters (Q)
+:PROPERTIES:
+:CUSTOM_ID: monsters-q
+:END:
+None.

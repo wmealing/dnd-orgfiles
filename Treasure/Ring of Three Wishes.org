@@ -1,0 +1,9 @@
+*** Ring of Three Wishes
+:PROPERTIES:
+:CUSTOM_ID: ring-of-three-wishes
+:END:
+/Ring, legendary/
+
+While wearing this ring, you can use an action to expend 1 of its 3
+charges to cast the /wish/ spell from it. The ring becomes nonmagical
+when you use the last charge.

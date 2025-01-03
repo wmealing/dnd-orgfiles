@@ -1,0 +1,5 @@
+* Spells (Y)
+:PROPERTIES:
+:CUSTOM_ID: spells-y
+:END:
+None.

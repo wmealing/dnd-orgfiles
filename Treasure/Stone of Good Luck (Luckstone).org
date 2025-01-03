@@ -1,0 +1,8 @@
+*** Stone of Good Luck (Luckstone)
+:PROPERTIES:
+:CUSTOM_ID: stone-of-good-luck-luckstone
+:END:
+/Wondrous item, uncommon (requires attunement)/
+
+While this polished agate is on your person, you gain a +1 bonus to
+ability checks and saving throws.

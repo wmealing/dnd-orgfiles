@@ -1,0 +1,286 @@
+* To Do
+:PROPERTIES:
+:CUSTOM_ID: to-do
+:END:
+*[[https://github.com/OldManUmby/DND.SRD.Wiki/issues][Submit a
+suggestion, issue or contribute]]*
+
+--------------
+
+* Completed
+:PROPERTIES:
+:CUSTOM_ID: completed
+:END:
+** June 1st, 2023
+:PROPERTIES:
+:CUSTOM_ID: june-1st-2023
+:END:
+- [X] Updated the license to
+  [[https://creativecommons.org/licenses/by/4.0/legalcode][Creative
+  Commons Attribution 4.0 International License]] ("CC-BY-4.0").
+
+** October 30th, 2022
+:PROPERTIES:
+:CUSTOM_ID: october-30th-2022
+:END:
+- [X] Renamed Customizations folder to Characterizations; renamed some
+  monsters for better organization.
+- [X] Added new release
+  [[https://github.com/OldManUmby/OGL-SRD5/releases][DND-SRD5 v0.5.1]].
+
+** October 29th, 2022
+:PROPERTIES:
+:CUSTOM_ID: october-29th-2022
+:END:
+- [X] Moved GitHuub Pages website to new subdomain:
+  [[https://dnd.srd.wiki]].
+- [X] Created new primary domain for the [[https://srd.wiki][SRD Wiki]].
+
+** October 23rd, 2022
+:PROPERTIES:
+:CUSTOM_ID: october-23rd-2022
+:END:
+- [X] Added missing section for Character Advancement.
+- [X] Added missing section for Inspiration.
+- [X] Added missing descriptions for Magic Items.
+- [X] Added missing descriptions for Monsters Statistics.
+- [X] Added alternate files for Monsters.
+- [X] Added alternate files for Wikilinked Spell Lists.
+- [X] Added alternate files for Treasure.
+- [X] Renamed section header files.
+- [X] Removed compiled downloads to avoid conflicts with variable
+  content.
+- [X] Fixed errors in Changelog.
+- [X] Added new release
+  [[https://github.com/OldManUmby/OGL-SRD5/releases][DND-SRD5 v0.5]].
+
+** March 5th, 2022
+:PROPERTIES:
+:CUSTOM_ID: march-5th-2022
+:END:
+- [X] Obsidian version of the D&D 5E SRD.
+  - [X] Races.
+  - [X] Classes.
+  - [X] Multiclassing.
+  - [X] Personalizations.
+  - [X] Equipment.
+  - [X] Abilities.
+  - [X] Adventuring.
+  - [X] Combat.
+  - [X] Spellcasting.
+  - [X] Spells.
+  - [X] Gamemastering.
+  - [X] Treasure.
+  - [X] Monsters.
+  - [X] Creatures.
+  - [X] NPCs.
+- [X] REorganized documents.
+- [X] Issue new release for current version.
+
+** February 18th, 2022
+:PROPERTIES:
+:CUSTOM_ID: february-18th-2022
+:END:
+- [X] Merge + fixed equipment list issues (items at wrong location).
+- [X] Added new release
+  [[https://github.com/OldManUmby/OGL-SRD5/releases][DND-SRD5 v0.4.4]].
+
+** November 1st, 2021
+:PROPERTIES:
+:CUSTOM_ID: november-1st-2021
+:END:
+- [X] Fixed minor syntax and formatting issues in Markdown.
+- [X] Updated all exported compiled file formats.
+
+** December 10th, 2020
+:PROPERTIES:
+:CUSTOM_ID: december-10th-2020
+:END:
+- [X] Added Github Discussions to repository.
+- [X] Added Github Pages.
+- [X] Redesigned website utilizing Github Pages with
+  [[https://jekyllrb.com/docs/pages/][Jekyll]].
+- [X] Redirected domain name to Github Pages.
+- [X] Re-organized repository files.
+- [X] Adjusted README files.
+- [X] Adjusted the page titles and removed TOC header from pages.
+
+** November 23rd, 2020
+:PROPERTIES:
+:CUSTOM_ID: november-23rd-2020
+:END:
+- [X] Removed chapter references within the SRD.
+
+** October 2nd, 2020
+:PROPERTIES:
+:CUSTOM_ID: october-2nd-2020
+:END:
+- [X] Reinstalled GRAV with theme and various plugins from scratch.
+- [X] Updated all pages fixing numerous markdown issues.
+- [X] Added missing spells.
+- [X] Reorganized pages.
+- [X] Updated composite files for DOCX.
+- [X] Compiled pages into all new download formats.
+- [X] Add site icon to the upper-left sidebar.
+
+** April 17th, 2020
+:PROPERTIES:
+:CUSTOM_ID: april-17th-2020
+:END:
+- [X] Created (from scratch) new Markdown and MS Word versions (v0.4.0)
+  of the D&D SRD 5.1.
+- [X] Better organize SRD into more usable chapters.
+- [X] All updated content uploaded to the website.
+
+** February 9th, 2020
+:PROPERTIES:
+:CUSTOM_ID: february-9th-2020
+:END:
+- [X] Updated homepage cover art and format descriptions.
+
+** November 4th, 2019
+:PROPERTIES:
+:CUSTOM_ID: november-4th-2019
+:END:
+- [X] Completely remastered ALL Markdown and DOCX documents from
+  scratch!
+- [X] Create BETA documents in Apple Pages and EPUB (needs more
+  editing).
+- [X] Basic styling added to extended formats.
+- [X] Added new RE& logo.
+- [X] Fixed many, many formatting and style errors.
+
+** October 29th, 2019
+:PROPERTIES:
+:CUSTOM_ID: october-29th-2019
+:END:
+- [X] Adjust SRD and all extended document formats for DMG, MM and PH
+  Errata (Nov 2018) from
+  [[https://dnd.wizards.com/articles/sage-advice/errata-november-2018][Wizards]].
+  Not an official Wizard's SRD update, but it needed to be done.
+
+** October 10th, 2019
+:PROPERTIES:
+:CUSTOM_ID: october-10th-2019
+:END:
+- [X] Adjusted styles in MS Word Compile for readability. Fixed errors
+  in formatting.
+
+** October 8th, 2019
+:PROPERTIES:
+:CUSTOM_ID: october-8th-2019
+:END:
+- [X] Technical corrections in the Markdown across nearly every section,
+  chapter and page.
+- [X] Created DOCX versions available for download,
+  [[https://srd.wiki][see Introduction page]].
+
+** August 22nd, 2019
+:PROPERTIES:
+:CUSTOM_ID: august-22nd-2019
+:END:
+- [X] Updated compilation view/download links and "created-by"
+  statement. Reverse-ordered the changelog dates so the latest dates are
+  top of page.
+
+** June 1st, 2019
+:PROPERTIES:
+:CUSTOM_ID: june-1st-2019
+:END:
+- [X] Updated copyright text for readability.
+- [X] Updated Markdown in Changelog removing Font Awesome syntax.
+
+** May 26th, 2019
+:PROPERTIES:
+:CUSTOM_ID: may-26th-2019
+:END:
+- [X] Ajusted page text on Home Defailt.md to reflect new public
+  wiki-like features thru [[http://github.com][GitHub]].
+
+** May 25th, 2019
+:PROPERTIES:
+:CUSTOM_ID: may-25th-2019
+:END:
+- [X] Merged various Markdown
+  [[https://github.com/OldManUmby/DND.SRD.Wiki/pulls?q=is%3Apr+is%3Aclosed][edits]]
+  from GitHub contributors. Thank you!
+
+** May 17th, 2019
+:PROPERTIES:
+:CUSTOM_ID: may-17th-2019
+:END:
+- [X] Reinstalled
+  [[https://github.com/hibbitts-design/grav-theme-learn2-git-sync][Learn2
+  with Git Sync Skeleton]] theme and [[https://getgrav.org][GRAV]] from
+  scratch, thus fixing an issue with some long markdown pages not
+  displaying or generating an Error 505. Installed various GRAV plugins
+  to match previous site installation. Changed the default theme colors
+  for a more printer-friendly interface.
+
+** March 31st, 2019
+:PROPERTIES:
+:CUSTOM_ID: march-31st-2019
+:END:
+- [X] Merged various Markdown
+  [[https://github.com/OldManUmby/DND.SRD.Wiki/pulls?q=is%3Apr+is%3Aclosed][edits]]
+  from GitHub contributors. Thank you!
+
+** March 8th, 2019
+:PROPERTIES:
+:CUSTOM_ID: march-8th-2019
+:END:
+- [X] Add [[https://github.com/trilbymedia/grav-plugin-tntsearch][TNT
+  Search]], a powerful indexed-based full text search engine.
+- [X] Add a
+  [[https://cse.google.com/cse?cx=001286843246981938841:_5jzoxwanvq][custom
+  Google search]] option to the SRD.
+
+** April 28th, 2018
+:PROPERTIES:
+:CUSTOM_ID: april-28th-2018
+:END:
+- [X] Create Changelog.
+- [X] Create Introduction page using media from the
+  [[http://dnd.wizards.com/articles/features/fan-site-kit][Wizard's Fan
+  Site Kit]].
+- [X] Installed [[https://github.com/sommerregen/grav-plugin-toc][Table
+  of Contents (TOC) plugin]] for [[https://getgrav.org][GRAV]].
+- [X] Add alphabet headers to spell lists for table of contents.
+- [X] Install SSL certificate (HTTPS) for primary and mail domains.
+- [X] Activate "Force SSL" globally in [[https://getgrav.org][GRAV]].
+- [X] Create a Markdown compilation of all SRD pages.
+- [X] Add alphabet headers to magic items for table of contents.
+- [X] Change theme CSS colors.
+
+** April 27th, 2018
+:PROPERTIES:
+:CUSTOM_ID: april-27th-2018
+:END:
+- [X] Create [[https://github.com/OldManUmby/DND.SRD.Wiki][OGL-SRD5
+  GitHub repository]]. Sync with [[https://desktop.github.com][GitHub
+  Desktop]] app.
+- [X] Create section folders and upload SRD markdown pages.
+- [X] Purchase [[https://srd.wiki][srd.wiki]] domain.
+- [X] Create [[https://srd.wiki][srd.wiki]] hosting account with
+  [[http://oldmanumby.com][Old Man Umby]].
+- [X] Create [[https://srd.wiki][srd.wiki]] website using
+  [[https://getgrav.org][GRAV open source flat-file CMS]].
+- [X] Install custom
+  [[https://github.com/hibbitts-design/grav-theme-learn2-git-sync][Learn2
+  with Git Sync]] theme for [[https://getgrav.org][GRAV]].
+- [X] Install various [[https://getgrav.org/downloads/plugins][Plugins
+  for GRAV]].
+- [X] Sync website with
+  [[https://github.com/OldManUmby/DND.SRD.Wiki][GitHub repo]] with
+  [[https://github.com/trilbymedia/grav-plugin-git-sync][Git Sync
+  plugin]] for [[https://getgrav.org][GRAV]].
+
+** April 24th, 2018
+:PROPERTIES:
+:CUSTOM_ID: april-24th-2018
+:END:
+- [X] Complete conversion of original
+  [[http://dnd.wizards.com/articles/features/systems-reference-document-srd][D&D
+  5E SRD 5.1]] from PDF format to
+  [[https://daringfireball.net/projects/markdown][Markdown]] format.
+  Adjust all markdown headers.

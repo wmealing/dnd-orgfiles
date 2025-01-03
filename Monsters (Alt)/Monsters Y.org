@@ -1,0 +1,5 @@
+* Monsters (Y)
+:PROPERTIES:
+:CUSTOM_ID: monsters-y
+:END:
+None.

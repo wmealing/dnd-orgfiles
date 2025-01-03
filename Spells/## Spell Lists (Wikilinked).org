@@ -1,0 +1,1166 @@
+* SPELL LISTS (Alternate)
+:PROPERTIES:
+:CUSTOM_ID: spell-lists-alternate
+:END:
+Spell names are wikilinked for use in a a PKM application, like
+[[https://obsidian.md][Obsidian]].
+
+** Bard Spells
+:PROPERTIES:
+:CUSTOM_ID: bard-spells
+:END:
+**** Cantrips (0 Level)
+:PROPERTIES:
+:CUSTOM_ID: cantrips-0-level
+:END:
+- [[Dancing Lights]]
+- [[Light]]
+- [[Mage Hand]]
+- [[Mending]]
+- [[Message]]
+- [[Minor Illusion]]
+- [[Prestidigitation]]
+- [[True Strike]]
+- [[Vicious Mockery]]
+
+**** 1st Level
+:PROPERTIES:
+:CUSTOM_ID: st-level
+:END:
+- [[Animal Friendship]]
+- [[Bane]]
+- [[Charm Person]]
+- [[Comprehend Languages]]
+- [[Cure Wounds]]
+- [[Detect Magic]]
+- [[Disguise Self]]
+- [[Faerie Fire]]
+- [[Feather Fall]]
+- [[Healing Word]]
+- [[Heroism]]
+- [[Hideous Laughter]]
+- [[Identify]]
+- [[Illusory Script]]
+- [[Longstrider]]
+- [[Silent Image]]
+- [[Sleep]]
+- [[Speak with Animals]]
+- [[Thunderwave]]
+- [[Unseen Servant]]
+
+**** 2nd Level
+:PROPERTIES:
+:CUSTOM_ID: nd-level
+:END:
+- [[Animal Messenger]]
+- [[Blindness-Deafness]]
+- [[Calm Emotions]]
+- [[Detect Thoughts]]
+- [[Enhance Ability]]
+- [[Enthrall]]
+- [[Heat Metal]]
+- [[Hold Person]]
+- [[Invisibility]]
+- [[Knock]]
+- [[Lesser Restoration]]
+- [[Locate Animals or Plants]]
+- [[Locate Object]]
+- [[Magic Mouth]]
+- [[See Invisibility]]
+- [[Shatter]]
+- [[Silence]]
+- [[Suggestion]]
+- [[Zone of Truth]]
+
+**** 3rd Level
+:PROPERTIES:
+:CUSTOM_ID: rd-level
+:END:
+- [[Bestow Curse]]
+- [[Clairvoyance]]
+- [[Dispel Magic]]
+- [[Fear]]
+- [[Glyph of Warding]]
+- [[Hypnotic Pattern]]
+- [[Major Image]]
+- [[Nondetection]]
+- [[Plant Growth]]
+- [[Sending]]
+- [[Speak with Dead]]
+- [[Speak with Plants]]
+- [[Stinking Cloud]]
+- [[Tiny Hut]]
+- [[Tongues]]
+
+**** 4th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level
+:END:
+- [[Compulsion]]
+- [[Confusion]]
+- [[Dimension Door]]
+- [[Freedom of Movement]]
+- [[Greater Invisibility]]
+- [[Hallucinatory Terrain]]
+- [[Locate Creature]]
+- [[Polymorph]]
+
+**** 5th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-1
+:END:
+- [[Animate Objects]]
+- [[Awaken]]
+- [[Dominate Person]]
+- [[Dream]]
+- [[Geas]]
+- [[Greater Restoration]]
+- [[Hold Monster]]
+- [[Legend Lore]]
+- [[Mass Cure Wounds]]
+- [[Mislead]]
+- [[Modify Memory]]
+- [[Planar Binding]]
+- [[Raise Dead]]
+- [[Scrying]]
+- [[Seeming]]
+- [[Teleportation Circle]]
+
+**** 6th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-2
+:END:
+- [[Eyebite]]
+- [[Find the Path]]
+- [[Guards and Wards]]
+- [[Irresistible Dance]]
+- [[Mass Suggestion]]
+- [[Programmed Illusion]]
+- [[True Seeing]]
+
+**** 7th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-3
+:END:
+- [[Arcane Sword]]
+- [[Etherealness]]
+- [[Forcecage]]
+- [[Magnificent Mansion]]
+- [[Mirage Arcane]]
+- [[Project Image]]
+- [[Regenerate]]
+- [[Resurrection]]
+- [[Symbol]]
+- [[Teleport]]
+
+**** 8th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-4
+:END:
+- [[Dominate Monster]]
+- [[Feeblemind]]
+- [[Glibness]]
+- [[Mind Blank]]
+- [[Power Word Stun]]
+
+**** 9th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-5
+:END:
+- [[Foresight]]
+- [[Power Word Kill]]
+- [[True Polymorph]]
+
+** Cleric Spells
+:PROPERTIES:
+:CUSTOM_ID: cleric-spells
+:END:
+**** Cantrips (0 Level)
+:PROPERTIES:
+:CUSTOM_ID: cantrips-0-level-1
+:END:
+- [[Guidance]]
+- [[Light]]
+- [[Mending]]
+- [[Resistance]]
+- [[Sacred Flame]]
+- [[Spare the Dying]]
+- [[Thaumaturgy]]
+
+**** 1st Level
+:PROPERTIES:
+:CUSTOM_ID: st-level-1
+:END:
+- [[Bane]]
+- [[Bless]]
+- [[Command]]
+- [[Create or Destroy Water]]
+- [[Cure Wounds]]
+- [[Detect Evil and Good]]
+- [[Detect Magic]]
+- [[Detect Poison and Disease]]
+- [[Guiding Bolt]]
+- [[Healing Word]]
+- [[Inflict Wounds]]
+- [[Protection from Evil and Good]]
+- [[Purify Food and Drink]]
+- [[Sanctuary]]
+- [[Shield of Faith]]
+
+**** 2nd Level
+:PROPERTIES:
+:CUSTOM_ID: nd-level-1
+:END:
+- [[Aid]]
+- [[Augury]]
+- [[Blindness-Deafness]]
+- [[Calm Emotions]]
+- [[Continual Flame]]
+- [[Enhance Ability]]
+- [[Find Traps]]
+- [[Gentle Repose]]
+- [[Hold Person]]
+- [[Lesser Restoration]]
+- [[Locate Object]]
+- [[Prayer of Healing]]
+- [[Protection from Poison]]
+- [[Silence]]
+- [[Spiritual Weapon]]
+- [[Warding Bond]]
+- [[Zone of Truth]]
+
+**** 3rd Level
+:PROPERTIES:
+:CUSTOM_ID: rd-level-1
+:END:
+- [[Animate Dead]]
+- [[Beacon of Hope]]
+- [[Bestow Curse]]
+- [[Clairvoyance]]
+- [[Create Food and Water]]
+- [[Daylight]]
+- [[Dispel Magic]]
+- [[Glyph of Warding]]
+- [[Magic Circle]]
+- [[Mass Healing Word]]
+- [[Meld into Stone]]
+- [[Protection from Energy]]
+- [[Remove Curse]]
+- [[Revivify]]
+- [[Sending]]
+- [[Speak with Dead]]
+- [[Spirit Guardians]]
+- [[Tongues]]
+- [[Water Walk]]
+
+**** 4th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-6
+:END:
+- [[Banishment]]
+- [[Control Water]]
+- [[Death Ward]]
+- [[Divination]]
+- [[Freedom of Movement]]
+- [[Guardian of Faith]]
+- [[Locate Creature]]
+- [[Stone Shape]]
+
+**** 5th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-7
+:END:
+- [[Commune]]
+- [[Contagion]]
+- [[Dispel Evil and Good]]
+- [[Flame Strike]]
+- [[Geas]]
+- [[Greater Restoration]]
+- [[Hallow]]
+- [[Insect Plague]]
+- [[Legend Lore]]
+- [[Mass Cure Wounds]]
+- [[Planar Binding]]
+- [[Raise Dead]]
+- [[Scrying]]
+
+**** 6th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-8
+:END:
+- [[Blade Barrier]]
+- [[Create Undead]]
+- [[Find the Path]]
+- [[Forbiddance]]
+- [[Harm]]
+- [[Heal]]
+- [[Heroes' Feast]]
+- [[Planar Ally]]
+- [[True Seeing]]
+- [[Word of Recall]]
+
+**** 7th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-9
+:END:
+- [[Conjure Celestial]]
+- [[Divine Word]]
+- [[Etherealness]]
+- [[Fire Storm]]
+- [[Plane Shift]]
+- [[Regenerate]]
+- [[Resurrection]]
+- [[Symbol]]
+
+**** 8th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-10
+:END:
+- [[Antimagic Field]]
+- [[Control Weather]]
+- [[Earthquake]]
+- [[Holy Aura]]
+
+**** 9th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-11
+:END:
+- [[Astral Projection]]
+- [[Gate]]
+- [[Mass Heal]]
+- [[True Resurrection]]
+
+** Druid Spells
+:PROPERTIES:
+:CUSTOM_ID: druid-spells
+:END:
+**** Cantrips (0 Level)
+:PROPERTIES:
+:CUSTOM_ID: cantrips-0-level-2
+:END:
+- [[Druidcraft]]
+- [[Guidance]]
+- [[Mending]]
+- [[Poison Spray]]
+- [[Produce Flame]]
+- [[Resistance]]
+- [[Shillelagh]]
+
+**** 1st Level
+:PROPERTIES:
+:CUSTOM_ID: st-level-2
+:END:
+- [[Animal Friendship]]
+- [[Charm Person]]
+- [[Create or Destroy Water]]
+- [[Cure Wounds]]
+- [[Detect Magic]]
+- [[Detect Poison and Disease]]
+- [[Entangle]]
+- [[Faerie Fire]]
+- [[Fog Cloud]]
+- [[Goodberry]]
+- [[Healing Word]]
+- [[Jump]]
+- [[Longstrider]]
+- [[Purify Food and Drink]]
+- [[Speak with Animals]]
+- [[Thunderwave]]
+
+**** 2nd Level
+:PROPERTIES:
+:CUSTOM_ID: nd-level-2
+:END:
+- [[Animal Messenger]]
+- [[Barkskin]]
+- [[Darkvision]]
+- [[Enhance Ability]]
+- [[Find Traps]]
+- [[Flame Blade]]
+- [[Flaming Sphere]]
+- [[Gust of Wind]]
+- [[Heat Metal]]
+- [[Hold Person]]
+- [[Lesser Restoration]]
+- [[Locate Animals or Plants]]
+- [[Locate Object]]
+- [[Moonbeam]]
+- [[Pass without Trace]]
+- [[Protection from Poison]]
+- [[Spike Growth]]
+
+**** 3rd Level
+:PROPERTIES:
+:CUSTOM_ID: rd-level-2
+:END:
+- [[Call Lightning]]
+- [[Conjure Animals]]
+- [[Daylight]]
+- [[Dispel Magic]]
+- [[Meld into Stone]]
+- [[Plant Growth]]
+- [[Protection from Energy]]
+- [[Sleet Storm]]
+- [[Speak with Plants]]
+- [[Water Breathing]]
+- [[Water Walk]]
+- [[Wind Wall]]
+
+**** 4th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-12
+:END:
+- [[Blight]]
+- [[Confusion]]
+- [[Conjure Minor Elementals]]
+- [[Conjure Woodland Beings]]
+- [[Control Water]]
+- [[Dominate Beast]]
+- [[Freedom of Movement]]
+- [[Giant Insect]]
+- [[Hallucinatory Terrain]]
+- [[Ice Storm]]
+- [[Locate Creature]]
+- [[Polymorph]]
+- [[Stone Shape]]
+- [[Stoneskin]]
+- [[Wall of Fire]]
+
+**** 5th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-13
+:END:
+- [[Antilife Shell]]
+- [[Awaken]]
+- [[Commune with Nature]]
+- [[Conjure Elemental]]
+- [[Contagion]]
+- [[Geas]]
+- [[Greater Restoration]]
+- [[Insect Plague]]
+- [[Mass Cure Wounds]]
+- [[Planar Binding]]
+- [[Reincarnate]]
+- [[Scrying]]
+- [[Tree Stride]]
+- [[Wall of Stone]]
+
+**** 6th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-14
+:END:
+- [[Conjure Fey]]
+- [[Find the Path]]
+- [[Heal]]
+- [[Heroes' Feast]]
+- [[Move Earth]]
+- [[Sunbeam]]
+- [[Transport via Plants]]
+- [[Wall of Thorns]]
+- [[Wind Walk]]
+
+**** 7th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-15
+:END:
+- [[Fire Storm]]
+- [[Mirage Arcane]]
+- [[Plane Shift]]
+- [[Regenerate]]
+- [[Reverse Gravity]]
+
+**** 8th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-16
+:END:
+- [[Animal Shapes]]
+- [[Antipathy-Sympathy]]
+- [[Control Weather]]
+- [[Earthquake]]
+- [[Feeblemind]]
+- [[Sunburst]]
+
+**** 9th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-17
+:END:
+- [[Foresight]]
+- [[Shapechange]]
+- [[Storm of Vengeance]]
+- [[True Resurrection]]
+
+** Paladin Spells
+:PROPERTIES:
+:CUSTOM_ID: paladin-spells
+:END:
+**** 1st Level
+:PROPERTIES:
+:CUSTOM_ID: st-level-3
+:END:
+- [[Bless]]
+- [[Command]]
+- [[Cure Wounds]]
+- [[Detect Evil and Good]]
+- [[Detect Magic]]
+- [[Detect Poison and Disease]]
+- [[Divine Favor]]
+- [[Heroism]]
+- [[Protection from Evil and Good]]
+- [[Purify Food and Drink]]
+- [[Shield of Faith]]
+
+**** 2nd Level
+:PROPERTIES:
+:CUSTOM_ID: nd-level-3
+:END:
+- [[Aid]]
+- [[Branding Smite]]
+- [[Find Steed]]
+- [[Lesser Restoration]]
+- [[Locate Object]]
+- [[Magic Weapon]]
+- [[Protection from Poison]]
+- [[Zone of Truth]]
+
+**** 3rd Level
+:PROPERTIES:
+:CUSTOM_ID: rd-level-3
+:END:
+- [[Create Food and Water]]
+- [[Daylight]]
+- [[Dispel Magic]]
+- [[Magic Circle]]
+- [[Remove Curse]]
+- [[Revivify]]
+
+**** 4th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-18
+:END:
+- [[Banishment]]
+- [[Death Ward]]
+- [[Locate Creature]]
+
+**** 5th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-19
+:END:
+- [[Dispel Evil and Good]]
+- [[Geas]]
+- [[Raise Dead]]
+
+** Ranger Spells
+:PROPERTIES:
+:CUSTOM_ID: ranger-spells
+:END:
+**** 1st Level
+:PROPERTIES:
+:CUSTOM_ID: st-level-4
+:END:
+- [[Alarm]]
+- [[Animal Friendship]]
+- [[Cure Wounds]]
+- [[Detect Magic]]
+- [[Detect Poison and Disease]]
+- [[Fog Cloud]]
+- [[Goodberry]]
+- [[Hunter's Mark]]
+- [[Jump]]
+- [[Longstrider]]
+- [[Speak with Animals]]
+
+**** 2nd Level
+:PROPERTIES:
+:CUSTOM_ID: nd-level-4
+:END:
+- [[Animal Messenger]]
+- [[Barkskin]]
+- [[Darkvision]]
+- [[Find Traps]]
+- [[Lesser Restoration]]
+- [[Locate Animals or Plants]]
+- [[Locate Object]]
+- [[Pass without Trace]]
+- [[Protection from Poison]]
+- [[Silence]]
+- [[Spike Growth]]
+
+**** 3rd Level
+:PROPERTIES:
+:CUSTOM_ID: rd-level-4
+:END:
+- [[Conjure Animals]]
+- [[Daylight]]
+- [[Nondetection]]
+- [[Plant Growth]]
+- [[Protection from Energy]]
+- [[Speak with Plants]]
+- [[Water Breathing]]
+- [[Water Walk]]
+- [[Wind Wall]]
+
+**** 4th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-20
+:END:
+- [[Conjure Woodland Beings]]
+- [[Freedom of Movement]]
+- [[Locate Creature]]
+- [[Stoneskin]]
+
+**** 5th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-21
+:END:
+- [[Commune with Nature]]
+- [[Tree Stride]]
+
+** Sorcerer Spells
+:PROPERTIES:
+:CUSTOM_ID: sorcerer-spells
+:END:
+**** Cantrips (0 Level)
+:PROPERTIES:
+:CUSTOM_ID: cantrips-0-level-3
+:END:
+- [[Acid Splash]]
+- [[Chill Touch]]
+- [[Dancing Lights]]
+- [[Fire Bolt]]
+- [[Light]]
+- [[Mage Hand]]
+- [[Mending]]
+- [[Message]]
+- [[Minor Illusion]]
+- [[Poison Spray]]
+- [[Prestidigitation]]
+- [[Ray of Frost]]
+- [[Shocking Grasp]]
+- [[True Strike]]
+
+**** 1st Level
+:PROPERTIES:
+:CUSTOM_ID: st-level-5
+:END:
+- [[Burning Hands]]
+- [[Charm Person]]
+- [[Color Spray]]
+- [[Comprehend Languages]]
+- [[Detect Magic]]
+- [[Disguise Self]]
+- [[Expeditious Retreat]]
+- [[False Life]]
+- [[Feather Fall]]
+- [[Fog Cloud]]
+- [[Jump]]
+- [[Mage Armor]]
+- [[Magic Missile]]
+- [[Shield]]
+- [[Silent Image]]
+- [[Sleep]]
+- [[Thunderwave]]
+
+**** 2nd Level
+:PROPERTIES:
+:CUSTOM_ID: nd-level-5
+:END:
+- [[Alter Self]]
+- [[Blindness-Deafness]]
+- [[Blur]]
+- [[Darkness]]
+- [[Darkvision]]
+- [[Detect Thoughts]]
+- [[Enhance Ability]]
+- [[Enlarge-Reduce]]
+- [[Gust of Wind]]
+- [[Hold Person]]
+- [[Invisibility]]
+- [[Knock]]
+- [[Levitate]]
+- [[Mirror Image]]
+- [[Misty Step]]
+- [[Scorching Ray]]
+- [[See Invisibility]]
+- [[Shatter]]
+- [[Spider Climb]]
+- [[Suggestion]]
+- [[Web]]
+
+**** 3rd Level
+:PROPERTIES:
+:CUSTOM_ID: rd-level-5
+:END:
+- [[Blink]]
+- [[Clairvoyance]]
+- [[Counterspell]]
+- [[Daylight]]
+- [[Dispel Magic]]
+- [[Fear]]
+- [[Fireball]]
+- [[Fly]]
+- [[Gaseous Form]]
+- [[Haste]]
+- [[Hypnotic Pattern]]
+- [[Lightning Bolt]]
+- [[Major Image]]
+- [[Protection from Energy]]
+- [[Sleet Storm]]
+- [[Slow]]
+- [[Stinking Cloud]]
+- [[Tongues]]
+- [[Water Breathing]]
+- [[Water Walk]]
+
+**** 4th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-22
+:END:
+- [[Banishment]]
+- [[Blight]]
+- [[Confusion]]
+- [[Dimension Door]]
+- [[Dominate Beast]]
+- [[Greater Invisibility]]
+- [[Ice Storm]]
+- [[Polymorph]]
+- [[Stoneskin]]
+- [[Wall of Fire]]
+
+**** 5th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-23
+:END:
+- [[Animate Objects]]
+- [[Cloudkill]]
+- [[Cone of Cold]]
+- [[Creation]]
+- [[Dominate Person]]
+- [[Hold Monster]]
+- [[Insect Plague]]
+- [[Seeming]]
+- [[Telekinesis]]
+- [[Teleportation Circle]]
+- [[Wall of Stone]]
+
+**** 6th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-24
+:END:
+- [[Chain Lightning]]
+- [[Circle of Death]]
+- [[Disintegrate]]
+- [[Eyebite]]
+- [[Globe of Invulnerability]]
+- [[Mass Suggestion]]
+- [[Move Earth]]
+- [[Sunbeam]]
+- [[True Seeing]]
+
+**** 7th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-25
+:END:
+- [[Delayed Blast Fireball]]
+- [[Etherealness]]
+- [[Finger of Death]]
+- [[Fire Storm]]
+- [[Plane Shift]]
+- [[Prismatic Spray]]
+- [[Reverse Gravity]]
+- [[Teleport]]
+
+**** 8th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-26
+:END:
+- [[Dominate Monster]]
+- [[Earthquake]]
+- [[Incendiary Cloud]]
+- [[Power Word Stun]]
+- [[Sunburst]]
+
+**** 9th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-27
+:END:
+- [[Gate]]
+- [[Meteor Swarm]]
+- [[Power Word Kill]]
+- [[Time Stop]]
+- [[Wish]]
+
+** Warlock Spells
+:PROPERTIES:
+:CUSTOM_ID: warlock-spells
+:END:
+**** Cantrips (0 Level)
+:PROPERTIES:
+:CUSTOM_ID: cantrips-0-level-4
+:END:
+- [[Chill Touch]]
+- [[Eldritch Blast]]
+- [[Mage Hand]]
+- [[Minor Illusion]]
+- [[Poison Spray]]
+- [[Prestidigitation]]
+- [[True Strike]]
+
+**** 1st Level
+:PROPERTIES:
+:CUSTOM_ID: st-level-6
+:END:
+- [[Charm Person]]
+- [[Comprehend Languages]]
+- [[Expeditious Retreat]]
+- [[Hellish Rebuke]]
+- [[Illusory Script]]
+- [[Protection from Evil and Good]]
+- [[Unseen Servant]]
+
+**** 2nd Level
+:PROPERTIES:
+:CUSTOM_ID: nd-level-6
+:END:
+- [[Darkness]]
+- [[Enthrall]]
+- [[Hold Person]]
+- [[Invisibility]]
+- [[Mirror Image]]
+- [[Misty Step]]
+- [[Ray of Enfeeblement]]
+- [[Shatter]]
+- [[Spider Climb]]
+- [[Suggestion]]
+
+**** 3rd Level
+:PROPERTIES:
+:CUSTOM_ID: rd-level-6
+:END:
+- [[Counterspell]]
+- [[Dispel Magic]]
+- [[Fear]]
+- [[Fly]]
+- [[Gaseous Form]]
+- [[Hypnotic Pattern]]
+- [[Magic Circle]]
+- [[Major Image]]
+- [[Remove Curse]]
+- [[Tongues]]
+- [[Vampiric Touch]]
+
+**** 4th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-28
+:END:
+- [[Banishment]]
+- [[Blight]]
+- [[Dimension Door]]
+- [[Hallucinatory Terrain]]
+
+**** 5th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-29
+:END:
+- [[Contact Other Plane]]
+- [[Dream]]
+- [[Hold Monster]]
+- [[Scrying]]
+
+**** 6th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-30
+:END:
+- [[Circle of Death]]
+- [[Conjure Fey]]
+- [[Create Undead]]
+- [[Eyebite]]
+- [[Flesh to Stone]]
+- [[Mass Suggestion]]
+- [[True Seeing]]
+
+**** 7th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-31
+:END:
+- [[Etherealness]]
+- [[Finger of Death]]
+- [[Forcecage]]
+- [[Plane Shift]]
+
+**** 8th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-32
+:END:
+- [[Demiplane]]
+- [[Dominate Monster]]
+- [[Feeblemind]]
+- [[Glibness]]
+- [[Power Word Stun]]
+
+**** 9th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-33
+:END:
+- [[Astral Projection]]
+- [[Foresight]]
+- [[Imprisonment]]
+- [[Power Word Kill]]
+- [[True Polymorph]]
+
+** Wizard Spells
+:PROPERTIES:
+:CUSTOM_ID: wizard-spells
+:END:
+**** Cantrips (0 Level)
+:PROPERTIES:
+:CUSTOM_ID: cantrips-0-level-5
+:END:
+- [[Acid Splash]]
+- [[Chill Touch]]
+- [[Dancing Lights]]
+- [[Fire Bolt]]
+- [[Light]]
+- [[Mage Hand]]
+- [[Mending]]
+- [[Message]]
+- [[Minor Illusion]]
+- [[Poison Spray]]
+- [[Prestidigitation]]
+- [[Ray of Frost]]
+- [[Shocking Grasp]]
+- [[True Strike]]
+
+**** 1st Level
+:PROPERTIES:
+:CUSTOM_ID: st-level-7
+:END:
+- [[Alarm]]
+- [[Burning Hands]]
+- [[Charm Person]]
+- [[Color Spray]]
+- [[Comprehend Languages]]
+- [[Detect Magic]]
+- [[Disguise Self]]
+- [[Expeditious Retreat]]
+- [[False Life]]
+- [[Feather Fall]]
+- [[Find Familiar]]
+- [[Floating Disk]]
+- [[Fog Cloud]]
+- [[Grease]]
+- [[Hideous Laughter]]
+- [[Identify]]
+- [[Illusory Script]]
+- [[Jump]]
+- [[Longstrider]]
+- [[Mage Armor]]
+- [[Magic Missile]]
+- [[Protection from Evil and Good]]
+- [[Shield]]
+- [[Silent Image]]
+- [[Sleep]]
+- [[Thunderwave]]
+- [[Unseen Servant]]
+
+**** 2nd Level
+:PROPERTIES:
+:CUSTOM_ID: nd-level-7
+:END:
+- [[Acid Arrow]]
+- [[Alter Self]]
+- [[Arcane Lock]]
+- [[Arcanist's Magic Aura]]
+- [[Blindness-Deafness]]
+- [[Blur]]
+- [[Continual Flame]]
+- [[Darkness]]
+- [[Darkvision]]
+- [[Detect Thoughts]]
+- [[Enlarge-Reduce]]
+- [[Flaming Sphere]]
+- [[Gentle Repose]]
+- [[Gust of Wind]]
+- [[Hold Person]]
+- [[Invisibility]]
+- [[Knock]]
+- [[Levitate]]
+- [[Locate Object]]
+- [[Magic Mouth]]
+- [[Magic Weapon]]
+- [[Mirror Image]]
+- [[Misty Step]]
+- [[Ray of Enfeeblement]]
+- [[Rope Trick]]
+- [[Scorching Ray]]
+- [[See Invisibility]]
+- [[Shatter]]
+- [[Spider Climb]]
+- [[Suggestion]]
+- [[Web]]
+
+**** 3rd Level
+:PROPERTIES:
+:CUSTOM_ID: rd-level-7
+:END:
+- [[Animate Dead]]
+- [[Bestow Curse]]
+- [[Blink]]
+- [[Clairvoyance]]
+- [[Counterspell]]
+- [[Dispel Magic]]
+- [[Fear]]
+- [[Fireball]]
+- [[Fly]]
+- [[Gaseous Form]]
+- [[Glyph of Warding]]
+- [[Haste]]
+- [[Hypnotic Pattern]]
+- [[Lightning Bolt]]
+- [[Magic Circle]]
+- [[Major Image]]
+- [[Nondetection]]
+- [[Phantom Steed]]
+- [[Protection from Energy]]
+- [[Remove Curse]]
+- [[Sending]]
+- [[Sleet Storm]]
+- [[Slow]]
+- [[Stinking Cloud]]
+- [[Tiny Hut]]
+- [[Tongues]]
+- [[Vampiric Touch]]
+- [[Water Breathing]]
+
+**** 4th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-34
+:END:
+- [[Arcane Eye]]
+- [[Banishment]]
+- [[Black Tentacles]]
+- [[Blight]]
+- [[Confusion]]
+- [[Conjure Minor Elementals]]
+- [[Control Water]]
+- [[Dimension Door]]
+- [[Fabricate]]
+- [[Faithful Hound]]
+- [[Fire Shield]]
+- [[Greater Invisibility]]
+- [[Hallucinatory Terrain]]
+- [[Ice Storm]]
+- [[Locate Creature]]
+- [[Phantasmal Killer]]
+- [[Polymorph]]
+- [[Private Sanctum]]
+- [[Resilient Sphere]]
+- [[Secret Chest]]
+- [[Stone Shape]]
+- [[Stoneskin]]
+- [[Wall of Fire]]
+
+**** 5th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-35
+:END:
+- [[Animate Objects]]
+- [[Arcane Hand]]
+- [[Cloudkill]]
+- [[Cone of Cold]]
+- [[Conjure Elemental]]
+- [[Contact Other Plane]]
+- [[Creation]]
+- [[Dominate Person]]
+- [[Dream]]
+- [[Geas]]
+- [[Hold Monster]]
+- [[Legend Lore]]
+- [[Mislead]]
+- [[Modify Memory]]
+- [[Passwall]]
+- [[Planar Binding]]
+- [[Scrying]]
+- [[Seeming]]
+- [[Telekinesis]]
+- [[Telepathic Bond]]
+- [[Teleportation Circle]]
+- [[Wall of Force]]
+- [[Wall of Stone]]
+
+**** 6th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-36
+:END:
+- [[Chain Lightning]]
+- [[Circle of Death]]
+- [[Contingency]]
+- [[Create Undead]]
+- [[Disintegrate]]
+- [[Eyebite]]
+- [[Flesh to Stone]]
+- [[Freezing Sphere]]
+- [[Globe of Invulnerability]]
+- [[Guards and Wards]]
+- [[Instant Summons]]
+- [[Irresistible Dance]]
+- [[Magic Jar]]
+- [[Mass Suggestion]]
+- [[Move Earth]]
+- [[Programmed Illusion]]
+- [[Sunbeam]]
+- [[True Seeing]]
+- [[Wall of Ice]]
+
+**** 7th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-37
+:END:
+- [[Arcane Sword]]
+- [[Delayed Blast Fireball]]
+- [[Etherealness]]
+- [[Finger of Death]]
+- [[Forcecage]]
+- [[Magnificent Mansion]]
+- [[Mirage Arcane]]
+- [[Plane Shift]]
+- [[Prismatic Spray]]
+- [[Project Image]]
+- [[Reverse Gravity]]
+- [[Sequester]]
+- [[Simulacrum]]
+- [[Symbol]]
+- [[Teleport]]
+
+**** 8th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-38
+:END:
+- [[Antimagic Field]]
+- [[Antipathy-Sympathy]]
+- [[Clone]]
+- [[Control Weather]]
+- [[Demiplane]]
+- [[Dominate Monster]]
+- [[Feeblemind]]
+- [[Incendiary Cloud]]
+- [[Maze]]
+- [[Mind Blank]]
+- [[Power Word Stun]]
+- [[Sunburst]]
+
+**** 9th Level
+:PROPERTIES:
+:CUSTOM_ID: th-level-39
+:END:
+- [[Astral Projection]]
+- [[Foresight]]
+- [[Gate]]
+- [[Imprisonment]]
+- [[Meteor Swarm]]
+- [[Power Word Kill]]
+- [[Prismatic Wall]]
+- [[Shapechange]]
+- [[Time Stop]]
+- [[True Polymorph]]
+- [[Weird]]
+- [[Wish]]
