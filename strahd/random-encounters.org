@@ -1,0 +1,85 @@
+* Daytime encounters in Barovia
+ :PROPERTIES:
+ :PAGE: 28
+ :END:
+
+ |----------+--------------------------------------------------|
+ | d12 + d8 | Encounter description                            |
+ |----------+--------------------------------------------------|
+ |        2 | 3d6 Barovian commoners                           |
+ |        3 | 1d6 Barovian scouts                              |
+ |        4 | Hunting trap                                     |
+ |        5 | Grave                                            |
+ |        6 | False trail                                      |
+ |        7 | 1d4 + 1 Vistani bandits                          |
+ |        8 | Skeletal rider                                   |
+ |        9 | Trinket                                          |
+ |       10 | Hidden bundle                                    |
+ |       11 | 1d4 swarms of ravens (50%) or                    |
+ |          | 1 wereraven (see appendix D) in raven form (50%) |
+ |       12 | 1d6 dire wolves                                  |
+ |       13 | 3d6 wolves                                       |
+ |       14 | 1d4 berserkers                                   |
+ |       15 | Corpse                                           |
+ |       16 | 1d6 werewolves in human form                     |
+ |       17 | 1 druid with 2d6 twig blights                    |
+ |       18 | 2d4 needle blights                               |
+ |       19 | 1d6 scarecrows                                   |
+ |       20 | 1 revenant                                       |
+ |----------+--------------------------------------------------|
+
+* Nighttime random encounters in Barovia
+
+|----------+-----------------------------------------------|
+| d12 + d8 | Encounter description                         |
+|----------+-----------------------------------------------|
+|        2 | 1 [[file:../Monsters/Ghost.org::#ghost][Ghost]] [[docview:Curse of Strahd.pdf::31][​[Page 30]​]]                             |
+|        3 | Hunting trap [[docview:Curse of Strahd.pdf::32][[Page 31]]                         |
+|        4 | Grave [[docview:Curse of Strahd.pdf::31][[Page 30]​]]                               |
+|        5 | Trinket [[docview:Curse of Strahd.pdf::33][[Page 32]]]                             |
+|        6 | Corpse [[docview:Curse of Strahd.pdf::31][[Page 30]​]]                              |
+|        7 | Hidden bundle [[docview:Curse of Strahd.pdf::31][[Page 30]]                        |
+|        8 | Skeletal rider [[docview:Curse of Strahd.pdf::32][[Page 31]​]]                      |
+|        9 | 1d8 swarms of bats [[docview:Curse of Strahd.pdf::33][[Page 32]​]]                  |
+|       10 | 1d6 dire wolves [[docview:Curse of Strahd.pdf::31][Page 30]]                       |
+|       11 | 3d6 wolves [[docview:Curse of Strahd.pdf::34][[Page33​]]]                           |
+|       12 | 1d4 berserkers [[docview:Curse of Strahd.pdf::30][[Page 29]​]]
+|       13  | 1 druid and 2d6 twig blights [[docview:Curse of Strahd.pdf::33][[Page 30]​]]
+|       14 | 2d4 needle blights [[docview:Curse of Strahd.pdf::32][[Page 31]]                    |
+|       15 | 1d6 werewolves in wolf form [[docview:Curse of Strahd.pdf::33][[Page 32]​]]
+|       16 | 3d6 zombies [[docview:Curse of Strahd.pdf::32][[Page 31]​]]                         |
+|       17 | 1d6 scarecrows [[docview:Curse of Strahd.pdf::32][[Page 31]​]]                      |
+|       18 | 1d8 Strahd zombies (see appendix D) [[docview:Curse of Strahd.pdf::32][[Page 31]​]] |
+|       19 | 1 will-o'-wisp [Page 33]                      |
+|       20 | 1 revenant [[docview:Curse of Strahd.pdf::32][[Page 31]​]]                          |
+|----------+-----------------------------------------------|
+
+
+* Random Encounters in Castle Ravenloft
+  :PROPERTIES:
+  :PAGE: 49
+  :END:
+
+  |----------+------------------------------------------------|
+  | d12 + d8 | Encounter description                          |
+  |----------+------------------------------------------------|
+  |        2 | Ezmerelda d'Avenir (see appendix D)  [[docview:Curse of Strahd.pdf::51][[Page 50]​]] |
+  |        3 | Rahadin (see appendix D) [[docview:Curse of Strahd.pdf::52][[Page 51]​]]             |
+  |        4 | 1 black cat [[docview:Curse of Strahd.pdf::51][[Page 50]​]]                          |
+  |        5 | 1 broom of animated attack  [[docview:Curse of Strahd.pdf::51][[Page 50]​]]          |
+  |        6 | 1d4 + 1 flying swords [[docview:Curse of Strahd.pdf::51][[Page 50]​]]                |
+  |        7 | Blinsky toy [[docview:Curse of Strahd.pdf::51][[Page 50]​]]                          |
+  |        8 | Unseen servant [[docview:Curse of Strahd.pdf::52][[Page 51]​]]                       |
+  |        9 | 1d4 Barovian commonors [[docview:Curse of Strahd.pdf::50][[Page 49]​]]               |
+  |       10 | 2d6 crawling claws [[docview:Curse of Strahd.pdf::51][[Page 50]​]]                   |
+  |       11 | 1d6 shadows  [[docview:Curse of Strahd.pdf::52][[Page 51]​]]                         |
+  |       12 | 1d6 swarms of bats  [[docview:Curse of Strahd.pdf::52][[Page 51]​]]                  |
+  |       13 | 1 crawling Strahd zombie  [[docview:Curse of Strahd.pdf::51][[Page 50]​]]            |
+  |       14 | 1d4 + 1 Vistani thugs [[docview:Curse of Strahd.pdf::53][[Page 52]​]]                |
+  |       15 | 1d4 wights [[docview:Curse of Strahd.pdf::53][[Page 52]​]]                           |
+  |       16 | Trinket [[docview:Curse of Strahd.pdf::33][[Page 32]]]                              |
+  |       17 | Giant spider cocoon [[docview:Curse of Strahd.pdf::52][[Page 51]​]]                  |
+  |       18 | 1 Barovian witch (see appendix D) [[docview:Curse of Strahd.pdf::50][[Page 49]​]]    |
+  |       19 | 1d4 + 1 vampire spawn [[docview:Curse of Strahd.pdf::53][[Page 52]​]]                |
+  |       20 | Strahd von Zarovich (see appendix D)[[docview:Curse of Strahd.pdf::52][[Page 51]​]]  |
+  |----------+------------------------------------------------|
