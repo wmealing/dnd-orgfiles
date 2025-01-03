@@ -1,0 +1,355 @@
+* Locations
+** Village of Barovia
+   :PROPERTIES:
+   :PAGE: 41
+   :END:
+   Description: The Village of Barovia is a dreary and desolate place shrouded in fog and shadow. Its residents live in fear of Strahd's tyranny.
+
+   NPCs:
+   - Ismark Kolyanovich ("Ismark the Lesser")
+   - Ireena Kolyana
+   - Mad Mary
+
+** Castle Ravenloft
+   :PROPERTIES:
+   :PAGE: 49
+   :END:
+   Description: The looming fortress of Count Strahd von Zarovich, Castle Ravenloft is both his home and the center of his dark power. The castle is filled with traps, undead, and mystery.
+
+   NPCs:
+   - Count Strahd von Zarovich
+   - Rahadin
+   - Escher
+
+** Vallaki
+   :PROPERTIES:
+   :PAGE: 95
+   :END:
+   Description: Vallaki is a relatively fortified town that offers hope for adventurers seeking to escape Strahd's influence. However, its stability is built on fragile foundations of paranoia and false cheer.
+
+   NPCs:
+   - Baron Vargas Vallakovich
+   - Lady Fiona Wachter
+   - Rictavio
+   - Izek Strazni
+
+** The Wizard of Wines Winery
+   :PROPERTIES:
+   :PAGE: 173
+   :END:
+   Description: This winery provides most of Barovia's wine. It is a critical resource for the people but is plagued by trouble from druids and corrupted plant creatures.
+
+   NPCs:
+   - Davian Martikov
+   - Adrian Martikov
+   - Elvir Martikov
+   - Stefania Martikov
+
+** Amber Temple
+   :PROPERTIES:
+   :PAGE: 181
+   :END:
+
+   Description: A mysterious temple of ancient origin, the Amber Temple holds dark secrets and deadly powers. It is a place of temptation and peril.
+
+   NPCs:
+   - Exethanter
+   - Kasimir Velikov
+   - Dark Powers (Entities)
+
+** Old Svalich Road
+   :PROPERTIES:
+   :PAGE: 15
+   :END:
+
+   Description: A winding, desolate road that traverses through Barovia, connecting various regions and filled with ominous signs of Strahd's dominion.
+
+
+** Death House
+   :PROPERTIES:
+   :PAGE: 211
+   :END:
+   Description: A haunted manor at the edge of the Village of Barovia, luring adventurers into a deadly trap.
+
+   Note: this part is in the appendix.
+
+** Eastern Gates of Barovia
+   :PROPERTIES:
+   :PAGE: 33
+   :END:
+   Description: These gates mark the eastern entrance to Barovia, flanked by crumbling statues and a sense of foreboding.
+
+** Barovian Basin
+** Barovia Proper
+   :PROPERTIES:
+   :PAGE: 41
+   :END:
+   Description: The central area of Barovia, encompassing the Village of Barovia and surrounding points of interest.
+
+*** Plot: Siren in the Well
+   :PROPERTIES:
+   :PAGE: 40
+   :END:
+   Description: A mysterious well rumored to be cursed, with whispers of a ghostly siren luring victims to their doom.
+
+*** Mad Mary's Townhouse
+   :PROPERTIES:
+   :PAGE: 44
+   :END:
+   Description: The modest home of "Mad Mary," a grief-stricken mother mourning her lost daughter.
+
+*** Bildrath's Mercantile
+   :PROPERTIES:
+   :PAGE: 43
+   :END:
+   Description: The local general store in Barovia, run by the miserly Bildrath Cantemir and his nephew Parriwimple.
+
+**** Bildrath Cantemir
+**** Parriwimple
+
+*** Blood On The Vine Tavern
+   :PROPERTIES:
+   :PAGE: 43
+   :END:
+   Description: A run-down tavern frequented by locals and outsiders, owned by three Vistani sisters.
+
+*** Indirovich Mansion
+   :PROPERTIES:
+   :PAGE: 46
+   :END:
+   Description: The once-proud home of the burgomaster, now a bastion for Ismark and Ireena.
+
+*** Barovia Church
+   :PROPERTIES:
+   :PAGE: 45
+   :END:
+   Description: A solemn church led by Father Donavich, struggling to maintain faith under Strahd's rule.
+
+*** Barovia Cemetary
+   :PROPERTIES:
+   :PAGE: 48
+   :END:
+   Description: A graveyard adjacent to the church, filled with the sorrow of the departed.
+
+** Hills of Bleak Vistas
+** Gates of Ravenloft
+   :PROPERTIES:
+   :PAGE: 38
+   :END:
+   Description: The imposing gates leading to Strahd's domain, guarded by gargoyle-like statues.
+
+** Castle Ravenloft
+   :PROPERTIES:
+   :PAGE: 49
+   :END:
+   Description: The heart of Strahd's power, filled with dread and danger.
+
+** Tser Pool
+   :PROPERTIES:
+   :PAGE: 36
+   :END:
+   Description: A tranquil pool where the Vistani make camp, offering hospitality and cryptic readings.
+
+*** Eliza
+   :PROPERTIES:
+   :PAGE: 66
+   :END:
+   Description: A mysterious seer among the Vistani, known for her cryptic but accurate fortunes.
+
+** Tser Falls
+   :PROPERTIES:
+   :PAGE: 37
+   :END:
+   Description: A breathtaking waterfall cascading from the cliffs, masking hidden dangers.
+
+** Old Bonegrinder
+   :PROPERTIES:
+   :PAGE: 125
+   :END:
+   Description: A decrepit windmill owned by a sinister trio of hags known as the "Baker Sisters."
+
+** River Ivlis Crossroads
+   :PROPERTIES:
+   :PAGE: 35
+   :END:
+   Description: A pivotal junction along the Svalich Road, haunted by dark legends.
+
+** Vallaki Valley
+** Town of Vallaki
+   :PROPERTIES:
+   :PAGE: 95
+   :END:
+
+   Description: A bustling town offering temporary respite from Strahd's oppressive presence.
+
+*** Vallaki Orphanage
+   :PROPERTIES:
+   :PAGE: 100
+   :END:
+   Description: A somber orphanage caring for the children of Vallaki, harboring secrets of its own.
+
+*** Practical Magicks & More
+   :PROPERTIES:
+   :PAGE: 102
+   :END:
+   Description: A quaint shop selling magical trinkets, run by an eccentric owner.
+
+*** Arasek Stockyard
+   :PROPERTIES:
+   :PAGE: 103
+   :END:
+   Description: A general stockyard serving adventurers and locals alike.
+
+*** Burgomaster Vargas' Mansion
+   :PROPERTIES:
+   :PAGE: 105
+   :END:
+   Description: The opulent home of the Baron, serving as the seat of power in Vallaki.
+
+*** Vallaki Town Square
+   :PROPERTIES:
+   :PAGE: 106
+   :END:
+   Description: The central hub of the town, often a site of festivities and public decrees.
+
+*** Coffin Maker's Shop
+   :PROPERTIES:
+   :PAGE: 108
+   :END:
+   Description: A macabre shop tied to sinister events in the town.
+
+*** Blue Water Inn
+   :PROPERTIES:
+   :PAGE: 110
+   :END:
+   Description: A warm and inviting tavern offering food, lodging, and secrets.
+
+**** Urwin Martikov
+**** Danika Martikov
+
+*** Blinsky Toys
+   :PROPERTIES:
+   :PAGE: 112
+   :END:
+   Description: A quirky toy shop run by Gadof Blinsky, filled with peculiar creations.
+
+
+
+*** Wachterhaus
+   :PROPERTIES:
+   :PAGE: 115
+   :END:
+   Description: The residence of Lady Wachter, hiding dark alliances and ambitions.
+
+*** St. Andral's Church
+   :PROPERTIES:
+   :PAGE: 120
+   :END:
+   Description: A sacred sanctuary dedicated to Andral, harboring a tragic past.
+
+*** Milivoj
+   :PROPERTIES:
+   :PAGE: 121
+   :END:
+   Description: A young gravedigger with a troubled demeanor and hidden burdens.
+
+*** The Reformation Center
+   :PROPERTIES:
+   :PAGE: 125
+   :END:
+   Description: An eerie institution aimed at "reforming" dissenters.
+
+** Argynvostholt Castle
+   :PROPERTIES:
+   :PAGE: 130
+   :END:
+   Description: A ruined fortress housing the restless spirits of the Order of the Silver Dragon.
+
+** Vistani Camp
+   :PROPERTIES:
+   :PAGE: 135
+   :END:
+   Description: A lively camp of Vistani, offering insight and intrigue.
+
+** Luna River Crossroads
+   :PROPERTIES:
+   :PAGE: 140
+   :END:
+   Description: A tranquil yet eerie meeting point near the Luna River.
+
+** Mount Baratok Slopes
+** Lake Zarovich
+   :PROPERTIES:
+   :PAGE: 145
+   :END:
+   Description: A serene lake shrouded in mist, rumored to hide ancient secrets.
+
+** Bogs of Berez
+** Ruins of Berez
+   :PROPERTIES:
+   :PAGE: 150
+   :END:
+   Description: The remnants of a cursed village, abandoned and overrun by undead.
+
+** DreadMount & the Tainted Woods
+** Raven River Crossroads
+   :PROPERTIES:
+   :PAGE: 155
+   :END:
+   Description: A treacherous intersection surrounded by dark woods and foreboding silence.
+
+** Village of Krezk
+   :PROPERTIES:
+   :PAGE: 160
+   :END:
+   Description: A secluded village with deep ties to Barovia's faith and lore.
+
+*** Krezk Pool & Shrine
+   :PROPERTIES:
+   :PAGE: 165
+   :END:
+   Description: A serene pool with healing properties, dedicated to the Morninglord.
+
+*** Abbey of Saint Markovia
+   :PROPERTIES:
+   :PAGE: 170
+   :END:
+   Description: A crumbling monastery housing a mix of salvation and horror.
+
+** Den of the Nightmother
+   :PROPERTIES:
+   :PAGE: 175
+   :END:
+   Description: A hidden lair tied to the ancient lore of Barovia, shrouded in dread.
+
+** Druidic Groves
+** The Wizards of Wines
+   :PROPERTIES:
+   :PAGE: 173
+   :END:
+   Description: The vital winery of Barovia, safeguarded by the Martikov family.
+
+** Yester Hill
+   :PROPERTIES:
+   :PAGE: 185
+   :END:
+   Description: A haunted hill sacred to the druids, used for dark rituals.
+
+** Mount Ghakis
+** Tsolenka Pass
+   :PROPERTIES:
+   :PAGE: 190
+   :END:
+   Description: A treacherous mountain pass leading to ancient secrets.
+
+** Amber Temple
+   :PROPERTIES:
+   :PAGE: 181
+   :END:
+   Description: A mysterious temple of ancient origin, the Amber Temple holds dark secrets and deadly powers. It is a place of temptation and peril.
+
+** Witch's Windmill
+   :PROPERTIES:
+   :PAGE: 70
+   :END:
+   Description: A decrepit windmill owned by a sinister trio of hags known as the "Baker Sisters."

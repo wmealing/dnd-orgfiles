@@ -1,0 +1,20 @@
+* Sessions
+** Session 0
+
+
+
+** Session 1
+
+
+** [chapter]
+*** [scene/encounters/beats/plot points]
+
+** enemies
+
+* gm stuff
+** todos
+*** narrative
+*** functional
+** player-character
+** timeline
+** reference material
