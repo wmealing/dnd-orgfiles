@@ -1,225 +1,44 @@
-#+caption: D&D Logo
-[[file:RE&.logo.png]]
+** What is this ?
 
---------------
+I have pulled together a number of resources from across the internet in emacs
+org file format.
 
-View the
-[[https://github.com/OldManUmby/DND.SRD.Wiki/blob/master/Changelog.md][Changelog]]
+- D&D 5E SRD REmastered?
+- (Must find the original emacs org file).
 
-* REorganized. REpublished. REmastered!
-:PROPERTIES:
-:CUSTOM_ID: reorganized.-republished.-remastered
-:END:
-*** What is D&D 5E SRD REmastered?
-:PROPERTIES:
-:CUSTOM_ID: what-is-dd-5e-srd-remastered
-:END:
-This is an adaptation of the D&D 5E SRD REformatted in Markdown (.MD)
-for easy export to other publishing formats. Please report any issues or
-discrepancies within the material itself; see Discussions & Issues
-below.
 
-*The Systems Reference Document (SRD)* contains guidelines for
-publishing content under the
-[[https://creativecommons.org/licenses/by/4.0/legalcode][Creative
-Commons Attribution 4.0 International License]] ("CC-BY-4.0"). The
-[[http://dungeonmastersguild.com/][Dungeon Masters Guild]] also provides
-self-publishing opportunities for individuals and groups. The OGL and
-Dungeon Masters Guild offer different kinds of publishing opportunities.
-For an overview of the programs, please visit the official
-[[http://dnd.wizards.com/articles/features/systems-reference-document-srd][Wizards
-SRD page]] to compare the programs.
+This is an adaptation of the D&D 5E SRD REformatted in Emacs org file format,
+I'm also adapting any current rule books that I find into a usable org file format
+that helps me organize and run my games.
 
-The material contained herein was REmastered line-by-line into Markdown
-format to be utilized in your own 5E projects. I have painstakingly
-converted the original Wizard's SRD v5.1 PDF to markdown, plus all
-errata from the /Nov 2018 update/. For more information, please visit
-the [[https://srd.wiki][SRD Wiki]].
+** Why Org file format?
 
-#+begin_html
-  <details>
-#+end_html
+Frankly I use emacs for everything, I dont want to learn another file format, maybe
+markdown is great, its not for me, you can fork this repo and do what you need.
 
-#+begin_html
-  <summary>
-#+end_html
 
-Why Markdown format?
+** My org file complains about missing PDF's ?
 
-#+begin_html
-  </summary>
-#+end_html
+In each of my campaigns I have related pdfs.  I use the org-mode links to the relevant
+pdf files and pages to directly jump to that area when required.  You can get a pdf
+and put it in the directory and it -should- work correctly.
 
-Markdown is a lightweight markup language with plain text formatting
-syntax created by [[https://daringfireball.net][John Gruber]]. By its
-very nature, being a plain text file, it is designed to add
-future-proofing to any set of documents while still maintaining basic
-text and table formatting options. In addition, Markdown may be exported
-to HTML and many other formats using a number of various Markdown
-editors. Markdown is often used to format readme files, for writing
-books, blogs, and messages, or to simply create rich text using plain
-text in a Markdown editor.
+I would strongly reccomend owning the pdf / book as otherwise we're depriving the authors
+and creators involved from their deserved income.
 
-#+begin_html
-  </details>
-#+end_html
+** I want to correct / add a campaign.
 
-#+begin_html
-  <details>
-#+end_html
+Go ahead and submit a PR.  I will have final say over correctness.
 
-#+begin_html
-  <summary>
-#+end_html
+** You used something I've created !
 
-Export Options
+Because some of these resources have been pulled together over a long period of time,
+if I have inadvertedly used your content, I am sorry and will do what I can to credit or
+remove it if you feel its wrong.
 
-#+begin_html
-  </summary>
-#+end_html
-
-I recommend using the following Markdown applications to edit the
-material:
-
-- [[https://typora.io][Typora]]: $15 (Pay Once)
-- [[https://code.visualstudio.com/Download][Visual Studio Code]]: FREE!
-
-To export Markdown to various publishing formats, I recommend using
-Typora (listed above) as it has many good export options which will
-satify the majority of users. Most any good Markdown editors will offer
-basic exports. However, if you want more options,
-[[https://panwriter.com][PanWriter]] is the best solution. However, for
-PanWiter to function properly, the following applications must also be
-installed to maximize your export options:
-
-- [[https://github.com/jgm/pandoc/releases/download/2.19.2/pandoc-2.19.2-macOS.pkg][Download
-  PanDoc]]
-
-Alternatively, you can install pandoc using Homebrew:
-
-=brew install pandoc=
-
-Homebrew can also install other software that integrates with Pandoc.
-For example, to install librsvg (its rsvg-convert covers formats without
-SVG support), Python (to use Pandoc filters), and BasicTeX (to typeset
-PDFs with LaTeX):
-
-=brew install librsvg python homebrew/cask/basictex=
-
-Note: On unsupported versions of macOS (more than three releases old),
-Homebrew installs from the source, which takes additional time and disk
-space for the ghc compiler and dependent Haskell libraries.
-
-There is a zip file containing the binaries and man pages, for those who
-prefer not to use the installer. Simply unzip the file and move the
-binaries and man pages to whatever directory you like.
-
-By default, Pandoc creates PDFs using LaTeX. Because a full MacTeX
-installation uses four gigabytes of disk space, we recommend BasicTeX or
-TinyTeX and using the tlmgr tool to install additional packages as
-needed. If you receive errors warning of fonts not found:
-
-=tlmgr install collection-fontsrecommended=
-
-#+begin_html
-  </details>
-#+end_html
-
-#+begin_html
-  <details>
-#+end_html
-
-#+begin_html
-  <summary>
-#+end_html
-
-Obsidian Friendly
-
-#+begin_html
-  </summary>
-#+end_html
-
-This adaption of the D&D 5E SRD contains optional content designed
-specifically for PKM applications like Obsidian.
-[[https://obsidian.md][Obsidian.md]] is a powerful knowledge base on top
-of a local folder of plain text Markdown files. That definition sounds
-simple; however, Obsidian is much, much more. Visit
-[[https://www.youtube.com/c/JoshPlunkett/videos][Josh Plunket's YouTube
-Channel]] to learn more about using Obsidian for your roleplaying game
-campaign management.
-
-#+begin_html
-  </details>
-#+end_html
-
-#+begin_html
-  <details>
-#+end_html
-
-#+begin_html
-  <summary>
-#+end_html
-
-Discussions & Issues
-
-#+begin_html
-  </summary>
-#+end_html
-
-Feel free to visit our
-[[https://github.com/OldManUmby/OGL-SRD5/discussions][discussion]] forum
-to examine publishing ideas regarding the D&D SRD. Please *REport* any
-[[https://github.com/OldManUmby/OGL-SRD5/issues][issues]] you find
-through Github. As an alternative, you can *REfork & REuse* this project
-through a GitHub [[https://github.com/OldManUmby/OGL-SRD5/pulls][pull
-request]].
-
-#+begin_html
-  </details>
-#+end_html
-
-#+begin_html
-  <details>
-#+end_html
-
-#+begin_html
-  <summary>
-#+end_html
-
-Get Downloads
-
-#+begin_html
-  </summary>
-#+end_html
-
-- Download the latest
-  [[https://github.com/OldManUmby/DND.SRD.Wiki/releases][Release]].
-- Download Wizard's official
-  [[https://www.dndbeyond.com/attachments/39j2li89/SRD5.1-CCBY4.0_License_live%20links.pdf][SRD
-  v5.1 in PDF format]].
-- Download Wizard's official
-  [[http://dnd.wizards.com/articles/features/basicrules][Errata and
-  Basic Rules]].
-- Download Wizard's official
-  [[http://dnd.wizards.com/articles/features/character_sheets][Characters
-  Sheets]].
-
-#+begin_html
-  </details>
-#+end_html
-
---------------
 
 © 2015 Wizards. All Rights Reserved. Dungeons & Dragons® is a
 trademark[s] of Wizards of the Coast. For more information about Wizards
 of the Coast or any of Wizards' trademarks or other intellectual
 property, please visit their website at
 [[http://www.wizards.com][www.wizards.com]].
-
-Website, markdown conversion, and extended formats by
-[[http://www.oldmanumby.com][Old Man Umby]]. By permission, this website
-utilizes official material and images from the
-[[http://dnd.wizards.com/articles/features/fan-site-kit][Wizard's Fan
-Site Kit]]. Wizards of the Coast, Dungeons & Dragons, and their logos
-are trademarks of Wizards of the Coast LLC in the United States and
-other countries.
