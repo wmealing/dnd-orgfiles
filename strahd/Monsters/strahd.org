@@ -1,0 +1,89 @@
+* Strahd von Zarovich - Stats
+  :PROPERTIES:
+  :SOURCE: Curse of Strahd, page 239
+  :TYPE: Legendary Vampire
+  :CR: 15
+  :END:
+
+** General Information
+
+   Note: need to confirm this.
+
+   Strahd von Zarovich is a cunning and powerful vampire lord, ruler of Barovia. He is a master manipulator, warrior, and spellcaster,
+   using his legendary abilities and lair actions to dominate his foes.
+
+** Statistics
+
+   - **Armor Class:** 16 (natural armor)
+   - **Hit Points:** 144 (17d8 + 68)
+   - **Speed:** 30 ft., climb 30 ft.
+
+   **Abilities:**
+   - **STR:** 18 (+4)
+   - **DEX:** 18 (+4)
+   - **CON:** 18 (+4)
+   - **INT:** 20 (+5)
+   - **WIS:** 15 (+2)
+   - **CHA:** 18 (+4)
+
+** Saving Throws
+   - Dex +9, Wis +7, Cha +9
+
+** Skills
+
+   - Arcana +10, Perception +7, Religion +10, Stealth +9
+
+** Damage Resistances
+
+   - Necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
+
+** Damage Immunities
+
+   - Poison
+
+** Condition Immunities
+
+   - Charmed, Exhaustion, Frightened, Poisoned
+
+** Senses
+
+   - Darkvision 120 ft., Passive Perception 17
+
+** Languages
+
+   - Common, Draconic, Elvish, Infernal
+
+** Challenge
+
+   - CR 15 (13,000 XP)
+
+** Traits
+
+   - **Shapechanger:** Strahd can use his action to polymorph into a bat or wolf, or back into his true form.
+   - **Legendary Resistance (3/Day):** If Strahd fails a saving throw, he can choose to succeed instead.
+   - **Misty Escape:** When reduced to 0 hit points outside his resting place, Strahd transforms into mist and regains hit points in his resting place.
+   - **Regeneration:** Strahd regains 20 hit points at the start of his turn unless he is in sunlight or running water.
+   - **Spider Climb:** Strahd can climb difficult surfaces, including ceilings, without needing to make an ability check.
+   - **Vampire Weaknesses:** Harmed by running water, sunlight, and wooden stakes.
+
+** Actions
+
+   - **Multiattack:** Strahd makes two attacks, only one of which can be a bite attack.
+   - **Unarmed Strike:** +9 to hit, 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage. If Strahd wishes, a creature hit must succeed on a DC 17 Strength saving throw or be grappled.
+   - **Bite:** Melee Weapon Attack: +9 to hit, reach 5 ft., one willing creature, or a creature that is grappled by Strahd. Hit: 9 (1d10 + 4) piercing damage plus 14 (4d6) necrotic damage.
+   - **Charm:** Strahd targets one humanoid within 30 feet. If the target can see Strahd, it must succeed on a DC 17 Wisdom saving throw or be charmed.
+   - **Children of the Night (1/Day):** Strahd magically calls 2d4 swarms of bats or rats, provided the sun isn’t up.
+
+** Legendary Actions
+
+   Strahd can take 3 legendary actions, choosing from the options below:
+   - **Move:** Strahd moves up to his speed without provoking opportunity attacks.
+   - **Unarmed Strike:** Strahd makes one unarmed strike.
+   - **Bite (Costs 2 Actions):** Strahd makes one bite attack.
+
+** Lair Actions
+
+   On initiative count 20 (losing initiative ties), Strahd can use a lair action to:
+   - Cause all windows in the castle to be covered by heavy mist, obscuring vision.
+   - Use his control over the castle to summon swarms of bats, rats, or wolves.
+   - Manipulate shadows to obscure or confuse his enemies.

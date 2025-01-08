@@ -6,26 +6,27 @@
  |----------+--------------------------------------------------|
  | d12 + d8 | Encounter description                            |
  |----------+--------------------------------------------------|
- |        2 | 3d6 Barovian commoners                           |
- |        3 | 1d6 Barovian scouts                              |
- |        4 | Hunting trap                                     |
- |        5 | Grave                                            |
- |        6 | False trail                                      |
+ |        2 | 3d6 Barovian commoners [[docview:Curse of Strahd.pdf::30][[Page 29]]]                 |
+ |        3 | 1d6 Barovian scouts [[docview:Curse of Strahd.pdf::30][[Page 29]]]                    |
+ |        4 | Hunting trap [[docview:Curse of Strahd.pdf::32][[Page 31]]                            |
+ |        5 | Grave [[docview:Curse of Strahd.pdf::31][[Page 30]​]]                                  |
+ |        6 | False trail [[docview:Curse of Strahd.pdf::31][[Page 30]​]]                            |
  |        7 | 1d4 + 1 Vistani bandits                          |
- |        8 | Skeletal rider                                   |
- |        9 | Trinket                                          |
- |       10 | Hidden bundle                                    |
+ |        8 | Skeletal rider [[docview:Curse of Strahd.pdf::32][[Page 31]​]]                         |
+ |        9 | Trinket [[docview:Curse of Strahd.pdf::33][[Page 32]]]                                |
+ |       10 | Hidden bundle  [[docview:Curse of Strahd.pdf::31][[Page 30]]                          |
  |       11 | 1d4 swarms of ravens (50%) or                    |
  |          | 1 wereraven (see appendix D) in raven form (50%) |
- |       12 | 1d6 dire wolves                                  |
- |       13 | 3d6 wolves                                       |
- |       14 | 1d4 berserkers                                   |
- |       15 | Corpse                                           |
- |       16 | 1d6 werewolves in human form                     |
- |       17 | 1 druid with 2d6 twig blights                    |
- |       18 | 2d4 needle blights                               |
- |       19 | 1d6 scarecrows                                   |
- |       20 | 1 revenant                                       |
+ |          | [[docview:Curse of Strahd.pdf::33][[Page 32]]
+ |       12 | 1d6 dire wolves [[docview:Curse of Strahd.pdf::31][[Page 30]​]]                        |
+ |       13 | 3d6 wolves [[docview:Curse of Strahd.pdf::34][[Page 33]​]]                                      |
+ |       14 | 1d4 berserkers [[docview:Curse of Strahd.pdf::30][[Page 29]]]                         |
+ |       15 | Corpse [[docview:Curse of Strahd.pdf::31][[Page 30]​]]                                 |
+ |       16 | 1d6 werewolves in human form [[docview:Curse of Strahd.pdf::33][[Page 32]​]]                    |
+ |       17 | 1 druid with 2d6 twig blights [[docview:Curse of Strahd.pdf::33][[Page 30]​]]          |
+ |       18 | 2d4 needle blights [[docview:Curse of Strahd.pdf::32][[Page 31]]                      |
+ |       19 | 1d6 scarecrows [[docview:Curse of Strahd.pdf::32][[Page 31]​]]                                  |
+ |       20 | 1 revenant  [[docview:Curse of Strahd.pdf::32][[Page 31]​]]                            |
  |----------+--------------------------------------------------|
 
 * Nighttime random encounters in Barovia

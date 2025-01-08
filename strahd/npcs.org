@@ -5,13 +5,14 @@
 
 
 * Adrian Martikov
-  Eldest son of Davian Martinkov.  Wereraven.  Confirms locations of wine in the Winery.
+  Eldest son of [[*Davian Martikov][Davian Martikov]].  A Wereraven.  Confirms locations of wine in the Winery.
 
   [[docview:Curse of Strahd.pdf::175][Information on the Martikov family.]]
 
 
 * Alexei
-  Young Vistana (bandit) from the camp southwest of Vallaki. Beaten by Luvash for allowing Arabelle to be taken.
+
+  Young Vistana (bandit) from the camp southwest of Vallaki. Beaten by [[*Luvash][Luvash]] for allowing Arabelle to be taken.
 
   [[docview:Curse of Strahd.pdf::122][Found in vistani tent, (N9C)]]
 
@@ -22,43 +23,48 @@
 
   [[docview:Curse of Strahd.pdf::94][Found in Strahds tomb (K86)]]
 
-
 * Anna Krezkova
 
-   Wife of the burgomaster Dmitri Krezkov. Described as "fearless". Mourning the death of his last son, Ilya
+   Wife of the burgomaster [[*Dmitri Krezkov][Dmitri Krezkov]]. Mourning the death of her last son, [[*Ilya Krezkov][Ilya]].
 
 * Arabelle
-Seven year old Vistana girl. Daughter of Luvash. Kidnapped by Bluto Krogarov
+
+  Seven year old Vistana girl. Daughter of [[*Luvash][Luvash]]. Kidnapped by Bluto Krogarov
 
 * Arik Lorensk
-Bartender at the Blood Vine Tavern in Barovia Village
+
+  Bartender at the [[file:locations.org::*Blood On The Vine Tavern][Blood On The Vine Tavern]] in [[file:locations.org::*Village of Barovia][Village of Barovia]].
 
 * Arrigal
-Vistani assassin in Strahd's employ. He will attempt to steal or even kill members of the group
+
+  Vistani assassin in Strahd's employ. He will attempt to steal or even kill members of the group
 
 * Aziana
-Werewolf guard charged with guarding the entrance to the lair
+
+  Werewolf guard charged with guarding the entrance to the lair
 
 * Baba Lysaga
-Crazy old woman who believes she is Strahd's real mother. She will kill anyone she deems a threat to Strahd
 
-[[docview:Curse of Strahd.pdf::24][SOmething]]
+  Crazy old woman who believes she is Strahd's real mother. She will kill anyone she deems a threat to Strahd.
 
-*
+  Likely in [[file:locations.org::*Berez][Berez]].
+
+
 * Bella Sunbane
-:PROPERTIES:
-:NOTER_DOCUMENT: Curse of Strahd.pdf
-:END:
-Daughter of Morgantha the hag and is one-third of the hag coven in the Old Bonegrinder. Kidnaps children to grind their bones into powder for baking dream pastries
+
+  Daughter of [[*Morgantha][Morgantha]] the hag and is one-third of the hag coven in the Old Bonegrinder. Kidnaps children to grind their bones into
+  powder for baking dream pastries
 
 * Beucephalus
-Strahd's beloved nightmare steed
+
+  Strahd's beloved nightmare steed
 
 * Bianca
-White-haired werewolf deep within the den. Kiril Stoyanovich's mate
+
+  White-haired werewolf deep within the den. [[*Kiril Stoyanovich][Kiril Stoyanovich]]'s mate
 
 * Bildrath Cantemir
-Owner and proprietor of Bildrath's Mercantile in the Villiage of Barovia
+  Owner and proprietor of Bildrath's Mercantile in the Villiage of Barovia
 
 * Bluto Krogarov
 Drunken and destitute fisherman from Vallaki. Kidnaps Arabelle and attempts to sacrifice her to the lake in exchange for fish
@@ -75,7 +81,7 @@ Eleven-year-old son of Danika and Urwin. Scampers about the inn and easily gets 
 
 
 * Claudiu Martikov
-Teenage son of Stefania and Dag. Grandson of Davian Martikov
+Teenage son of Stefania and Dag. Grandson of [[*Davian Martikov][Davian Martikov]]
 
   [[docview:Curse of Strahd.pdf::175][Information on the Martikov family.]]
 
@@ -94,55 +100,57 @@ Faithful mongrelfolk servant to Strahd. Will try to lure the party into the elev
 [[docview:Curse of Strahd.pdf::148][First found in the abbey.]]
 
 * Dag Tomescu
-Married to Stefania Martikova. Son-in-law of Davian Martikov
+Married to Stefania Martikova. Son-in-law of [[*Davian Martikov][Davian Martikov]].
 
 * Danika Dorakova
-Barkeep and co-owner of the Blue Water Inn. Wife of Urwin Martikov. Member of the Keepers of the Feather
+Barkeep and co-owner of the [[file:locations.org::*Blue Water Inn][Blue Water Inn]]. Wife of Urwin Martikov. Member of the Keepers of the Feather
 
 * Davanka
 Werewolf guard assigned to watch the entrance of the den
 
-* Davian
+* Davian Martikov
 Owner of the Wizard of Wines and Patriarch of the Martikov Family.
 
 * Dimira Yolensky
 Pregnant woman from Krezk. Gives birth to souless child ("Something New" Event)
 
 * Dmitri Krezkov
-Burgomaster of Krezk. Grieving over the death of his last child Ilya
+  Burgomaster of [[file:locations.org::*Village of Krezk][Village of Krezk]]. Grieving over the death of his last child [[*Ilya Krezkov][Ilya Krezkov]].
 
 * Donavich
-Priest of the Villiage of Barovia. Spends his days praying for the salvation of his son Doru
+  Priest of the Villiage of Barovia. Spends his days praying for the salvation of his son Doru
 
 * Doru
-Son of Donavich. Turned into a Vampire Spawn by Strahd during the Mad Mage's failed attack on Ravenloft
+  Son of Donavich. Turned into a Vampire Spawn by Strahd during the Mad Mage's failed attack on [[file:locations.org::*Castle Ravenloft][Castle Ravenloft]].
 
 * Elvir Martikov
-Wereraven Son of Davian Martikov and worker at Wizard of Wines
+  Wereraven Son of [[*Davian Martikov][Davian Martikov]] and worker at Wizard of Wines
 
 * Emil Toranescu
-Former leader of the werewolves in Barovia. Ousted by Kiril and imprisoned by Strahd
+
+  Former leader of the werewolves in Barovia. Ousted by [[*Kiril Stoyanovich][Kiril]] and imprisoned by Strahd.
 
 * Endorovich the Terrible
 Spirit of a long-dead warlord. Fights the party by inhabiting the gargoyles within his crypt
 
 * Ernst Larnak
-Money-grubbing spy employed by Fiona Wachter
+Money-grubbing spy employed by [[*Fiona Wachter][Fiona Wachter.]]
 
 * Escher
 Vampire companion to Strahd. Described as a "handsome young man"
 
 * Exethanter
-Once a powerful lich lord of the Amber Temple. Now weakened and decrepit (can be restored with greater restoration)
+Once a powerful lich lord of the [[file:locations.org::*Amber Temple][Amber Temple]]. Now weakened and decrepit (can be restored with greater restoration)
 
 * Ezmerelda d'Avenir
 Heavily armed Vistana vampire hunter. Apprenticed under Rudolph van Richten, now searching Barovia for her master
 
 * Fiona Wachter
-Vallakian noblewoman and cult leader. Wants to sieze control of Vallaki from the Vallakoviches
+
+  Vallakian noblewoman and cult leader. Wants to sieze control of Vallaki from the Vallakoviches
 
 * Franz Groza
-"Young but fierce" werewolf who will take over leadership of the pack if Emil and Kiril are both killed.
+"Young but fierce" werewolf who will take over leadership of the pack if [[*Emil Toranescu][Emil Toranescu]] and [[*Kiril Stoyanovich][Kiril]] are both killed.
 
 * Gadof Blinsky
 Struggling toymaker of Vallaki, and source of most toys in Barovia. Forced by Izek Strazni to make Ireena Kolyana dolls
@@ -157,196 +165,285 @@ High ranking member of the Order of the Silver Dragon. Former lover of Vladimir 
 Vampire spawn of Strahd. Will pretend to be a helpless maid to gain the party's trust before attacking them ("Maid in Hell")
 
 * Helwa
-Leader of a small hunting party of berserkers taking shelter in the Amber Temple
+Leader of a small hunting party of berserkers taking shelter in the [[file:locations.org::*Amber Temple][Amber Temple]].
 
 * Henrik van der Voort
 Reclusive and disliked coffin maker from Vallaki. Paid by Vasili von Holtz (Strahd) to hide coffins containing Vampire Spawn
 
+* Ilya Krezkov
+
+  The late son of [[*Dmitri Krezkov][Dmitri]] and Anna Krezkov, was a kind and cherished boy whose untimely death devastated the Village of Krezk.
+  His miraculous resurrection by the Abbot brought fleeting joy to his family, though it deepened the eerie influence of the Abbey over
+  the villagers.
+
 * Ireena Kolyana
-Adopted daughter of the burgomaster of the Villiage of Barovia. Reincarnation of Tatyana, Strahd's unrequited love interest from centuries ago
+
+  Adopted daughter of the burgomaster of the Villiage of Barovia. Reincarnation of Tatyana, Strahd's unrequited love interest from centuries ago
 
 * Izmark Kolyanovich
 Son of the late burgomaster of the Villiage of Barovia, known as "Ismark the Lesser". Brother of Ireena Kolyana
 
 * Izek Stranzi
-Bloodthirsty guard leader of Vallaki. Severed right arm replaced with fiendish arm a few months ago. Real brother of Ireena Kolyana
+  Bloodthirsty guard leader of Vallaki. Severed right arm replaced with fiendish arm a few months ago. Real brother of Ireena Kolyana
+
+* Jakaraion
+
+  A once-brilliant wizard and scholar, was lured to the [[file:locations.org::*Amber Temple][Amber Temple]] by the promise of forbidden knowledge. Corrupted by the dark powers within,
+  he now exists as a wraith-like figure (dead), consumed by madness and his insatiable thirst for arcane secrets.
 
 * Karl Wachter
-Troublemaking son of Fiona Wachter. Brother of Nikolai Jr.
+
+  Troublemaking son of [[*Fiona Wachter][Fiona Wachter]]. Brother of Nikolai Jr.
 
 * Kasimir Velikov
-Crippled Dusk Elf living among the Vistani near Vallaki. Wracked with guilt over his centuries-old murder of his sister, Patrina Velikovna
+
+  Crippled Dusk Elf living among the Vistani near Vallaki. Wracked with guilt over his centuries-old murder of his sister, Patrina Velikovna
 
 * Kellen
-Young werewolf recently welcomed into the pack. Kidnapped and forced to fight to the death in the ring of stone (Z8) against other child captives.
+
+  Young werewolf recently welcomed into the pack. Kidnapped and forced to fight to the death in the ring of stone (Z8) against other child captives.
 
 * Kiril Stoyanovich
-Cruel current leader of the werewolf pack. Recently took over leadership of the pack by allying with Strahd to oust Emil, the former leader
+
+  Cruel current leader of the werewolf pack. Recently took over leadership of the pack by allying with Strahd to oust
+  [[*Emil Toranescu][Emil Toranescu]], the former leader.
 
 * Klutz Tripalotsky
-Ancient phantom warrior who died by falling upon his own sword. Lived and died long before the days of Strahd
+
+  Ancient phantom warrior who died by falling upon his own sword. Lived and died long before the days of Strahd
 
 * Kretyana Dolvof
-Krezkian midwife who identifies a newborn baby as soulless ("Something New" Event)
+
+  Krezkian midwife who identifies a newborn baby as soulless ("Something New" Event)
 
 * Kroval "Mad Dog" Grislek
-Spirit of an old warleader. His crypt is guarded by his wraith as well as three hell hounds
+
+  Spirit of an old warleader. His crypt is guarded by his wraith as well as three hell hounds
 
 * Lief Lipsiege
-Strahd's accountant, chained to his own desk.
+
+  Strahd's accountant, chained to his own desk. (Probably in [[file:locations.org::*Castle Ravenloft][Castle Ravenloft]] ?)
 
 * Lucian Petrovich
-Priest of Vallaki. Preaches nightly to terrified Vallakians, trying to comfort them. Targeted for death by Strahd in the "Feast of St. Andral" Event=
+
+  Priest of [[file:locations.org::*Town of Vallaki][Vallaki]]. Preaches nightly to terrified Vallakians, trying to comfort them. Targeted for death by [[*Strahd von Zarovich][Strahd]] in the
+  "Feast of St. Andral" Event.
 
 * Ludmilla Vilisevic
-Former Bride of Strahd, buried within Strahd's Tomb
+
+  Former Bride of Strahd, buried within Strahd's Tomb in [[file:locations.org::*Castle Ravenloft][Castle Ravenloft]].
 
 * Luvash
-Brutish co-leader of the Vistani Camp near Vallaki. Brother of Arrigal and father of Arabelle
+
+  Brutish co-leader of the Vistani Camp near Vallaki. Brother of Arrigal and father of Arabelle
 
 * Mad Mage of Mt. Baratok (Broken One)
-Powerful wizard from a distant land. Traveled to Barovia to destroy Strahd, but was defeated and driven mad. His true identity is Mordenkainen, legendary archmage of the Circle of Eight
+
+  Powerful wizard from a distant land. Traveled to Barovia to destroy Strahd, but was defeated and driven mad. His true identity is Mordenkainen, legendary archmage of the Circle of Eight
 
 * Mad Mary
-Grieving mother found weeping in her home in the Villiage of Barovia. She is distraught over her runaway daughter, Gertruda.
 
-* Madam Eva
-Elderly Vistana fortuneteller. Traded her youth to Mother Night in exchange for magical foresight and long life. Daughter of Lord Barov and half-sister to Strahd and Sergei. Her real name is Katarina
+  Grieving mother found weeping in her home in the Villiage of Barovia. She is distraught over her runaway daughter, Gertruda.
+
+* Madam Eva                                                                     :tser:pool:
+
+  Elderly Vistana fortuneteller. Traded her youth to Mother Night in exchange for magical foresight and long life. Daughter of Lord Barov and
+  half-sister to [[*Strahd von Zarovich][Strahd]] and [[*Sergei][Sergei]]. Her real name is Katarina.
 
 * Majesto
-Lady Fiona Wachter's summoned Imp
+  Lady [[*Fiona Wachter][Fiona Wachter]]'s summoned Imp
 
 * Martin Martikov
-Young wereraven boy from the Wizard of Wines. Son of Stefania and Dag and grandson of Davian
+
+Young wereraven boy from the [[file:locations.org::*The Wizard of Wines Winery][The Wizard of Wines Winery]]. Son of [[*Stefania Martikova][Stefania Martikova]] and [[*Dag Tomescu][Dag Tomescu]] and grandson of [[*Davian Martikov][Davian Martikov]]
 
 * Marzena Belview
-Winged Mongrelfolk in the Abbey of St. Markovia. Chained to the ground and will not allow anyone other than Clovin Belview to approach her. Sister of Mishka Belview
 
-[[docview:Curse of Strahd.pdf::148][First found in the abbey.]]
+  Winged Mongrelfolk in the Abbey of St. Markovia. Chained to the ground and will not allow anyone other than Clovin Belview to approach her. Sister of Mishka Belview
+
+  [[docview:Curse of Strahd.pdf::148][First found in the abbey.]]
 
 * Milivoj
-Grave digger at St. Andral's Church, always has shovel.  Stole bones of St. Andral.
+
+  Grave digger at St. Andral's Church, always has shovel.  Stole bones of St. Andral.
 
 * Mirabel
-One of three female Vistani co-owners of the Blood of the Vine Tavern in the Villiage of Barovia
+
+  One of three female Vistani co-owners of the Blood of the Vine Tavern in the Villiage of Barovia
 
 * Mishka Belview
-Murderous spider-like mongrelfolk hiding in the well in the Abbey of St. Markovia. He has discovered that he likes killing people. Brother of Marzena Belview.
 
-[[docview:Curse of Strahd.pdf::148][First found in the abbey.]]
+  Murderous spider-like mongrelfolk hiding in the well in the Abbey of St. Markovia. He has discovered that he likes killing people.
+  Brother of Marzena Belview.
+
+  [[docview:Curse of Strahd.pdf::148][First found in the abbey.]]
 
 * Morgantha
-Mother of Bella Sunbane and Offalia Wormwiggle. Leader of the hag coven in the Old Bonegrinder. Kidnaps children to grind their bones into powder for baking dream pastries
+
+  Mother of [[*Bella Sunbane][Bella Sunbane]] and [[*Offalia Wormwiggle][Offalia Wormwiggle]]. Leader of the hag coven in the [[file:locations.org::*Old Bonegrinder][Old Bonegrinder]]. Kidnaps children to grind their
+  bones into powder for baking dream pastries.
 
 * Muriel Vinshaw
-Wereraven scout watching Baba Lysaga's hut from afar. Warns the party of the danger of facing Baba head on
+
+  Wereraven scout watching [[*Baba Lysaga][Baba Lysaga]]'s hut from afar. Warns the party of the danger of facing [[*Baba Lysaga][Baba]] head on
 
 * Neferon
-Arcanaloth hiding within the Amber Temple. Attacks the party from within the faceless god statue. Will claim to be a human wizard named "Henrich Stolt" if captured
+  Arcanaloth hiding within the [[file:locations.org::*Amber Temple][Amber Temple]]. Attacks the party from within the faceless god statue. Will claim to be a human wizard named "Henrich Stolt" if captured
 
 * Nikolai Wachter Jr
-Troublemaking son of Fiona Wachter. Brother of Karl
+  Troublemaking son of [[*Fiona Wachter][Fiona Wachter]]. Brother of Karl
 
 * Nikolai Wachter Sr.
-Deceased husband of Fiona Wachter and father of Karl, Nikolai Jr. and Stella. His body is kept pristine by Fiona by use of gentle repose
+
+  Deceased husband of [[*Fiona Wachter][Fiona Wachter]] and father of Karl, Nikolai Jr. and Stella. His body is kept pristine by Fiona by use of gentle repose.
 
 * Offalia Wormwiggle
-Daughter of Morgantha the hag and is one-third of the hag coven in the Old Bonegrinder. Kidnaps children to grind their bones into powder for baking dream pastries
+
+  Daughter of [[*Morgantha][Morgantha]] the hag and is one-third of the hag coven in the Old Bonegrinder. Kidnaps children to grind their bones into powder for baking dream pastries
 
 * Otto Belview
-Mongrelfolk gate guard of the Abbey of St. Markovia. His madness is embodied by "I am the smartest, wisest, strongest, fastest, and most beautiful person I know"
+  Mongrelfolk gate guard of the Abbey of St. Markovia. His madness is embodied by "I am the smartest, wisest, strongest, fastest, and most beautiful person I know"
 
 [[docview:Curse of Strahd.pdf::148][First found in the abbey.]]
 
 * Parrywimple
-Simple-minded stock boy in Bildrath's Mercantile. Used by his uncle Bildrath as a bouncer for any difficult customers. Real name is Parpol Cantemir
+  Simple-minded stock boy in Bildrath's Mercantile. Used by his uncle Bildrath as a bouncer for any difficult customers.
+  Real name is Parpol Cantemir
 
 * Patrina Velikovna
-Long-dead dusk elf wizard, killed by her own people to prevent her from being corrupted by Strahd. Trapped in her crypt in the form of a Banshee. Her brother Kasimir seeks to resurrect her with the power of the Amber Temple
+
+  Long-dead dusk elf wizard, killed by her own people to prevent her from being corrupted by [[*Strahd von Zarovich][Strahd]]. Trapped in her crypt in the form of a Banshee.
+  Her brother [[*Kasimir Velikov][Kasimir]] seeks to resurrect her with the power of the [[file:locations.org::*Amber Temple][Amber Temple]].
 
 * Piccolo
-Pet monkey belonging to Gadof Blinsky. Originally owned by Rictavio, who gave him to Blinsky because pets are not allowed in the Blue Water Inn
+  Pet monkey belonging to Gadof Blinsky. Originally owned by Rictavio, who gave him to Blinsky because pets are not allowed in the [[file:locations.org::*Blue Water Inn][Blue Water Inn]].
 
 * Pidlwick II
-Clockwork replica of the jester Pidlwick created by legendary toymakter Fritz von Weerg. Killed the original Pidlwick by pushing him down a flight of stairs
+  Clockwork replica of the jester Pidlwick created by legendary toymakter Fritz von Weerg. Killed the original Pidlwick by pushing him down a flight of stairs
 
 * Rahadin
-Sadistic chamberlain to the von Zarovich family for centuries. Unwavering in loyalty to Strahd
+  Sadistic chamberlain to the von Zarovich family for centuries. Unwavering in loyalty to [[*Strahd von Zarovich][Strahd von Zarovich]]
+
 
 * Rictavio
-Half-Elf  and carnival man from a distant land who spends most days telling outrageous and implausable stories of his adventures. His true identity is the legendary vampire hunter Rudolph van Richten
+  Half-Elf and carnival man from a distant land who spends most days telling outrageous and implausable stories of his adventures.
+  His true identity is the legendary vampire hunter Rudolph van Richten
+
+* Rudolph van Richten
+
+  See: [[*Rictavio][Rictavio]]
 
 * Sangzor
-Legendary monster from the Balinok mountains. May attack anyone traveling along the Tsolenka Pass
+  Legendary monster from the Balinok mountains. May attack anyone traveling along the Tsolenka Pass
 
 * Sasha Ivliskova
-Former Bride of Strahd, locked within a crypt after Strahd became bored of her
+
+  Former Bride of [[*Strahd von Zarovich][Strahd]], locked within a crypt after Strahd became bored of her
 
 * Savid
-DuskElf scout sent to find Arabelle. Took refuge within Argynvostholt after being attacked by blights
+
+  DuskElf scout sent to find Arabelle. Took refuge within Argynvostholt after being attacked by blights
+
+* Sergei
+
+  Sergei von Zarovich, the yfounger brother of Strahd von Zarovich, was a kind-hearted and noble soul whose love
+  for Tatyana inspired a tragic tale of jealousy and betrayal. His untimely death at Strahd's hands marked the beginning of
+  Strahd's curse, transforming him into the vampiric lord of Barovia.
 
 * Skennis
-Weak werewolf who has grown too old to hunt. Plays his electrum flute (poorly) to pass the time
+
+  Weak werewolf who has grown too old to hunt. Plays his electrum flute (poorly) to pass the time
 
 * Sorvia
-One of three female Vistani co-owners of the Blood of the Vine Tavern in the Villiage of Barovia
+
+  One of three female Vistani co-owners of the Blood of the Vine Tavern in the Villiage of Barovia
 
 * Stefania Martikova
-Daughter of Davian Martikov. Mother of four living in the Wizard of Wines
+
+  Daughter of [[*Davian Martikov][Davian Martikov]]. Mother of four living in the Wizard of Wines
 
 * Stella Wachter
-Crazed daughter of Fiona Wachter. Driven mad by Victor Vallakovich's "unkind words" after she tried to befriend and wed Victor on her mother's orders. Now spends her days locked within her room, believing she is a cat
+
+  Crazed daughter of [[*Fiona Wachter][Fiona Wachter]]. Driven mad by Victor Vallakovich's "unkind words" after she tried to befriend and wed Victor on her mother's orders. Now spends her days locked within her room, believing she is a cat
 
 * Strahd von Zarovich
-Vampire lord over all of Barovia. The main antagonist and final boss of Curse of Strahd
+
+  Vampire lord over all of Barovia. The main antagonist and final boss of Curse of Strahd.
+
+  [ Stat block ]
 
 * Szoldar Szoldarovich
-Wolf-hunter of Vallaki. Spends his free time drowning his misery at the Blue Water Inn rather than spend time with his family. Hunting partners with Yevgeni Krushkin
+
+  Wolf-hunter of Vallaki. Spends his free time drowning his misery at the [[file:locations.org::*Blue Water Inn][Blue Water Inn]] rather than spend time with his family. Hunting partners
+  with Yevgeni Krushkin
+
+* Tatyana (Dead)
+
+  Tatyana, a radiant and compassionate young woman, captured the hearts of both Sergei and his brother Strahd von Zarovich with her beauty
+  and kindness. Her tragic death, fleeing from [[*Strahd von Zarovich][Strahd's]] obsessive pursuit, bound her soul to the land of Barovia, where she is fated to
+  reincarnate endlessly.
 
 * The Abbot
-Deva sent to protect Krezk who has fallen into madness. Creator of the Mongrelfolk and the Flesh Golem Vasilka
-Page 226
+
+  Deva sent to protect Krezk who has fallen into madness. Creator of the Mongrelfolk and the Flesh Golem Vasilka
 
 * Udo Lukovich
-Shoemaker and imprisoned by the baron. Arrested for sedition at Wolf's Head Jamboree. Currently held in a closet in the burgomaster's mansion.
+
+  Shoemaker and imprisoned by the baron. Arrested for sedition at Wolf's Head Jamboree. Currently held in a closet in the burgomaster's mansion.
 
 * Urwin Martikov
-Urwin Martikov is a Barovian wereraven and a member of the Keepers of the Feather. He and his wife Danika are the proprietors of the Blue Water Inn in Vallaki. They have two sons, Brom and Bray.
+
+  A Barovian wereraven and a member of the Keepers of the Feather. He and his wife Danika are the proprietors of the [[file:locations.org::*Blue Water Inn][Blue Water Inn]] in Vallaki.
+  They have two sons, [[*Brom Martikov][Brom]] and [[*Bray Martikov][Bray]].
 
 * Vasilka
-Flesh Golem created by the Abbot as a bride to give to Strahd. Made to look like Strahd's ancient love interest Tatyana
+
+  Flesh Golem created by the Abbot as a bride to give to Strahd. Made to look like Strahd's ancient love interest Tatyana
 
 * Victor Vallakovich
-Skittish son of burgomaster Vargas Vallakovich. Found a spellbook in his father's library and is trying to create a teleport circle in order to escape Barovia
+
+  Skittish son of burgomaster Vargas Vallakovich. Found a spellbook in his father's library and is trying to create a teleport circle in order to escape Barovia
 
 * Viggo Martikov
-Young wereraven boy from the Wizard of Wines. Son of Stefania and Dag and grandson of Davian
+
+  Young wereraven boy from the Wizard of Wines. Son of Stefania and Dag and grandson of [[*Davian Martikov][Davian Martikov]]
 
 * Vilnius
-Cowardly wizard apprentice dragged to Barovia by his greedy master Jakarion. He is hiding away after he suffered terrible burns and his master was disintegrated.
+
+  Cowardly wizard apprentice dragged to Barovia by his greedy master [[*Jakaraion][Jakaraion]]. He is hiding away after he suffered terrible burns and his master
+  was disintegrated.
 
 * Vladimir Horngaard
-Former commander of the Order of the Silver Dragon. Blinded by rage, he will not allow anyone to destroy Strahd, which he would see as freeing Strahd from his suffering
+
+  Former commander of the Order of the Silver Dragon. Blinded by rage, he will not allow anyone to destroy Strahd, which he would see as freeing Strahd from his suffering
 
 * Volenta Popofsky
-Former Bride of Strahd, buried within Strahd's Tomb
+
+  Former Bride of [[*Strahd von Zarovich][Strahd]], buried within Strahd's Tomb
 
 * Wensencia
-Werewolf watching over young Kellen, the newest member of the pack.
+
+  Werewolf watching over young Kellen, the newest member of the pack.
 
 * Wintersplinter
-Massive tree blight summoned by druids of Yester Hill using the Wizard of Wines magic seed. Set loose to wreak havoc on the Wizard of Wines once summoned
+
+  Massive tree blight summoned by druids of Yester Hill using the Wizard of Wines magic seed. Set loose to wreak havoc on the Wizard of Wines once summoned
 
 * Yevgeni Krushkin
-Wolf-hunter of Vallaki. Spends his free time drowning his misery at the Blue Water Inn rather than spend time with his family. Hunting partners with Szoldar Szoldarovich
+
+  Wolf-hunter of Vallaki. Spends his free time drowning his misery at the [[file:locations.org::*Blue Water Inn][Blue Water Inn]] rather than spend time with his family. Hunting partners
+  with [[*Szoldar Szoldarovich][Szoldar Szoldarovich]].
 
 * Yolanda Martikova
-Infant wereraven from the Wizard of Wines. Daughter of Stefania and Dag and granddaughter of Davian
+
+  Infant wereraven from the Wizard of Wines. Daughter of Stefania and Dag and granddaughter of [[*Davian Martikov][Davian Martikov]]
 
 * Zuleika Toranescu
-Vengeful mate of Emil, the former leader of the werewolf pack. She will help the party in exchange for Emil's freedom or for Kiril's death
+
+  Vengeful mate of [[*Emil Toranescu][Emil]], the former leader of the werewolf pack. She will help the party in exchange for Emil's freedom or for [[*Kiril Stoyanovich][Kiril]]'s death
 
 * Zygfrek Belview
-Mongrelfolk gate guard of the Abbey of St. Markovia. Her madness is embodied by "I don't like the way people judge me all the time"
 
-[[docview:Curse of Strahd.pdf::148][First found in the Abbey]]
+  Mongrelfolk gate guard of the Abbey of St. Markovia. Her madness is embodied by "I don't like the way people judge me all the time"
+
+  [[docview:Curse of Strahd.pdf::148][First found in the Abbey]]

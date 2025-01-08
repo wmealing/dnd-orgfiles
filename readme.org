@@ -6,10 +6,14 @@ org file format.
 - D&D 5E SRD REmastered?
 - (Must find the original emacs org file).
 
-
 This is an adaptation of the D&D 5E SRD REformatted in Emacs org file format,
 I'm also adapting any current rule books that I find into a usable org file format
 that helps me organize and run my games.
+
+* I found an error, can you fix it ?
+
+While you can make an issue and tell me what is wrong, I would prefer to have a
+PR fixing the issue.
 
 ** Why Org file format?
 
