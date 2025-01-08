@@ -126,6 +126,13 @@ Pregnant woman from Krezk. Gives birth to souless child ("Something New" Event)
 * Elvir Martikov
   Wereraven Son of [[*Davian Martikov][Davian Martikov]] and worker at Wizard of Wines
 
+* Eliza
+   :PROPERTIES:
+   :PAGE: 66
+   :END:
+
+   A mysterious seer among the Vistani, known for her cryptic but accurate fortunes.
+
 * Emil Toranescu
 
   Former leader of the werewolves in Barovia. Ousted by [[*Kiril Stoyanovich][Kiril]] and imprisoned by Strahd.

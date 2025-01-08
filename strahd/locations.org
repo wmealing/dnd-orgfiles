@@ -14,12 +14,13 @@
 ** Castle Ravenloft
    :PROPERTIES:
    :PAGE: 49
-   :CHARACTER-LEVEL 9
+   :CHARACTER-LEVEL: 9
    :END:
+
    Description: The looming fortress of Count Strahd von Zarovich, Castle Ravenloft is both his home and the center of his dark power. The castle is filled with traps, undead, and mystery.
 
    NPCs:
-   - Count Strahd von Zarovich
+   - [[file:npcs.org::*Strahd von Zarovich][Strahd von Zarovich]]
    - Rahadin
    - Escher
 
@@ -39,7 +40,7 @@
 ** Old BoneGrinder
    :PROPERTIES:
    :PAGE: 125
-   :CHARACTER-LEVEL 4
+   :CHARACTER-LEVEL: 4
    :END:
 
    A degraded grain mill/windmill now inhabited by [[file:npcs.org::*Morgantha][Morgantha's]] Coven.
@@ -176,14 +177,14 @@
    :PROPERTIES:
    :PAGE: 36
    :END:
-   Description: A tranquil pool where the Vistani make camp, offering hospitality and cryptic readings.
 
+   Description: A tranquil pool where the Vistani make camp,
+   offering hospitality and cryptic readings.
 
    NPCs:
    - Madam Eva
    - Twelve Vistani (CN male and female human bandits)
    - Three sober Vistani (CN male and female human bandit captains) sleeping in caravans.
-
 
 *** Eliza
    :PROPERTIES:
